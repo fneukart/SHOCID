@@ -1,0 +1,18 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=SHOCID/src<shocid.hoann{HOANNJSP.java[HOANNJSP"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="0"/>
+      <y="0"/>
+   </type>
+   <type>
+      <name="=SHOCID/src<shocid.ffann.training{FFANNBackPropagationJSP.java[FFANNBackPropagationJSP"/>
+      <height="518"/>
+      <width="829"/>
+      <x="168"/>
+      <y="483"/>
+   </type>
+</uml>
+

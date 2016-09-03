@@ -1,0 +1,3060 @@
+Output Neuron 0:
+actual=1.0, ideal=0.9467885869986469
+Output Neuron 0:
+actual=1.0, ideal=0.9517086612435505
+Output Neuron 0:
+actual=1.0, ideal=0.9563158956654316
+Output Neuron 0:
+actual=1.0, ideal=0.9606202721141586
+Output Neuron 0:
+actual=1.0, ideal=0.964631951760321
+Output Neuron 0:
+actual=1.0, ideal=0.9683612145857008
+Output Neuron 0:
+actual=1.0, ideal=0.9718184035435334
+Output Neuron 0:
+actual=1.0, ideal=0.975013873455684
+Output Neuron 0:
+actual=1.0, ideal=0.9779579446412447
+Output Neuron 0:
+actual=1.0, ideal=0.9806608612086143
+Output Neuron 0:
+actual=1.0, ideal=0.9831327538905986
+Output Neuron 0:
+actual=1.0, ideal=0.9853836072590639
+Output Neuron 0:
+actual=1.0, ideal=0.9874232311215695
+Output Neuron 0:
+actual=1.0, ideal=0.98926123587646
+Output Neuron 0:
+actual=1.0, ideal=0.990907011584343
+Output Neuron 0:
+actual=1.0, ideal=0.9923695898489884
+Output Neuron 0:
+actual=1.0, ideal=0.9936579129282627
+Output Neuron 0:
+actual=1.0, ideal=0.994780098693185
+Output Neuron 0:
+actual=1.0, ideal=0.9957435857907836
+Output Neuron 0:
+actual=1.0, ideal=0.9965546587493239
+Output Neuron 0:
+actual=1.0, ideal=0.9972186616919826
+Output Neuron 0:
+actual=1.0, ideal=0.9977412564740236
+Output Neuron 0:
+actual=1.0, ideal=0.998131266540489
+Output Neuron 0:
+actual=1.0, ideal=0.9984035723311793
+Output Neuron 0:
+actual=1.0, ideal=0.9985801458264425
+Output Neuron 0:
+actual=1.0, ideal=0.9986874312248001
+Output Neuron 0:
+actual=1.0, ideal=0.9987510506722767
+Output Neuron 0:
+actual=1.0, ideal=0.9987909495965299
+Output Neuron 0:
+actual=1.0, ideal=0.9988197495386261
+Output Neuron 0:
+actual=1.0, ideal=0.9988439322124165
+Output Neuron 0:
+actual=1.0, ideal=0.9988662221883167
+Output Neuron 0:
+actual=1.0, ideal=0.9988875647813632
+Output Neuron 0:
+actual=1.0, ideal=0.9989082424944759
+Output Neuron 0:
+actual=1.0, ideal=0.9989283366193392
+Output Neuron 0:
+actual=1.0, ideal=0.9989478793834035
+Output Neuron 0:
+actual=1.0, ideal=0.9989668924275099
+Output Neuron 0:
+actual=1.0, ideal=0.9989853949398836
+Output Neuron 0:
+actual=1.0, ideal=0.9990034050496569
+Output Neuron 0:
+actual=1.0, ideal=0.99902094006921
+Output Neuron 0:
+actual=1.0, ideal=0.9990380165551831
+Output Neuron 0:
+actual=1.0, ideal=0.9990546503491782
+Output Neuron 0:
+actual=1.0, ideal=0.9990708566148458
+Output Neuron 0:
+actual=1.0, ideal=0.9990866498723888
+Output Neuron 0:
+actual=1.0, ideal=0.9991020440310375
+Output Neuron 0:
+actual=1.0, ideal=0.9991170524196274
+Output Neuron 0:
+actual=1.0, ideal=0.9991316878154088
+Output Neuron 0:
+actual=1.0, ideal=0.9991459624712011
+Output Neuron 0:
+actual=1.0, ideal=0.9991598881410015
+Output Neuron 0:
+actual=1.0, ideal=0.9991734761041474
+Output Neuron 0:
+actual=1.0, ideal=0.999186737188124
+Output Neuron 0:
+actual=1.0, ideal=0.9991996817901047
+Output Neuron 0:
+actual=1.0, ideal=0.9411807433631082
+Output Neuron 0:
+actual=1.0, ideal=0.9461610520346159
+Output Neuron 0:
+actual=1.0, ideal=0.9508317923802574
+Output Neuron 0:
+actual=1.0, ideal=0.9552026188820452
+Output Neuron 0:
+actual=1.0, ideal=0.9592833748117652
+Output Neuron 0:
+actual=1.0, ideal=0.9630840331422772
+Output Neuron 0:
+actual=1.0, ideal=0.9666146418739617
+Output Neuron 0:
+actual=1.0, ideal=0.9698852738578464
+Output Neuron 0:
+actual=1.0, ideal=0.9729059811265702
+Output Neuron 0:
+actual=1.0, ideal=0.9756867536834364
+Output Neuron 0:
+actual=1.0, ideal=0.9782374826482034
+Output Neuron 0:
+actual=1.0, ideal=0.9805677491454778
+Output Neuron 0:
+actual=1.0, ideal=0.9826873620735106
+Output Neuron 0:
+actual=1.0, ideal=0.9846051430886257
+Output Neuron 0:
+actual=1.0, ideal=0.9863300753992993
+Output Neuron 0:
+actual=1.0, ideal=0.9878702451744816
+Output Neuron 0:
+actual=1.0, ideal=0.9892329789367297
+Output Neuron 0:
+actual=1.0, ideal=0.9904249884901383
+Output Neuron 0:
+actual=1.0, ideal=0.991452662291745
+Output Neuron 0:
+actual=1.0, ideal=0.992322664623205
+Output Neuron 0:
+actual=1.0, ideal=0.993043466350046
+Output Neuron 0:
+actual=1.0, ideal=0.9936260344084745
+Output Neuron 0:
+actual=1.0, ideal=0.9940850677549903
+Output Neuron 0:
+actual=1.0, ideal=0.9944385971511692
+Output Neuron 0:
+actual=1.0, ideal=0.9947070061373869
+Output Neuron 0:
+actual=1.0, ideal=0.9949108211910438
+Output Neuron 0:
+actual=1.0, ideal=0.9950688135379369
+Output Neuron 0:
+actual=1.0, ideal=0.9951963503920848
+Output Neuron 0:
+actual=1.0, ideal=0.9953047848376898
+Output Neuron 0:
+actual=1.0, ideal=0.9954016647436886
+Output Neuron 0:
+actual=1.0, ideal=0.9954915625215045
+Output Neuron 0:
+actual=1.0, ideal=0.9955769949522347
+Output Neuron 0:
+actual=1.0, ideal=0.995659237025849
+Output Neuron 0:
+actual=1.0, ideal=0.9957389061888592
+Output Neuron 0:
+actual=1.0, ideal=0.9958162974568567
+Output Neuron 0:
+actual=1.0, ideal=0.9958915683678254
+Output Neuron 0:
+actual=1.0, ideal=0.9959648193216009
+Output Neuron 0:
+actual=1.0, ideal=0.9960361294989531
+Output Neuron 0:
+actual=1.0, ideal=0.9961055688231534
+Output Neuron 0:
+actual=1.0, ideal=0.9961732025970419
+Output Neuron 0:
+actual=1.0, ideal=0.9962390929021122
+Output Neuron 0:
+actual=1.0, ideal=0.9963032990681626
+Output Neuron 0:
+actual=1.0, ideal=0.9963658779113229
+Output Neuron 0:
+actual=1.0, ideal=0.9964268838670205
+Output Neuron 0:
+actual=1.0, ideal=0.996486369117412
+Output Neuron 0:
+actual=1.0, ideal=0.9965443837018501
+Output Neuron 0:
+actual=1.0, ideal=0.9966009756217671
+Output Neuron 0:
+actual=1.0, ideal=0.9966561909392989
+Output Neuron 0:
+actual=1.0, ideal=0.9967100738703947
+Output Neuron 0:
+actual=1.0, ideal=0.9967626668727615
+Output Neuron 0:
+actual=1.0, ideal=0.9968140107289685
+Output Neuron 0:
+actual=1.0, ideal=0.9320517700818598
+Output Neuron 0:
+actual=1.0, ideal=0.93712678419746
+Output Neuron 0:
+actual=1.0, ideal=0.9418976100189144
+Output Neuron 0:
+actual=1.0, ideal=0.9463733821297902
+Output Neuron 0:
+actual=1.0, ideal=0.9505634378894199
+Output Neuron 0:
+actual=1.0, ideal=0.9544772606659139
+Output Neuron 0:
+actual=1.0, ideal=0.9581244270887501
+Output Neuron 0:
+actual=1.0, ideal=0.9615145584230222
+Output Neuron 0:
+actual=1.0, ideal=0.9646570545807295
+Output Neuron 0:
+actual=1.0, ideal=0.9675617505864137
+Output Neuron 0:
+actual=1.0, ideal=0.9702377709785397
+Output Neuron 0:
+actual=1.0, ideal=0.9726942547564115
+Output Neuron 0:
+actual=1.0, ideal=0.9749396825370604
+Output Neuron 0:
+actual=1.0, ideal=0.9769825698459121
+Output Neuron 0:
+actual=1.0, ideal=0.9788304487298125
+Output Neuron 0:
+actual=1.0, ideal=0.9804905544793853
+Output Neuron 0:
+actual=1.0, ideal=0.9819697504976221
+Output Neuron 0:
+actual=1.0, ideal=0.9832748619660334
+Output Neuron 0:
+actual=1.0, ideal=0.9844138132567493
+Output Neuron 0:
+actual=1.0, ideal=0.9853954410706692
+Output Neuron 0:
+actual=1.0, ideal=0.9862310253640532
+Output Neuron 0:
+actual=1.0, ideal=0.9869339534923818
+Output Neuron 0:
+actual=1.0, ideal=0.9875199221949491
+Output Neuron 0:
+actual=1.0, ideal=0.9880062992386205
+Output Neuron 0:
+actual=1.0, ideal=0.988410998013933
+Output Neuron 0:
+actual=1.0, ideal=0.988751245876681
+Output Neuron 0:
+actual=1.0, ideal=0.989042672457244
+Output Neuron 0:
+actual=1.0, ideal=0.9892983136142397
+Output Neuron 0:
+actual=1.0, ideal=0.989528460627934
+Output Neuron 0:
+actual=1.0, ideal=0.9897406463918885
+Output Neuron 0:
+actual=1.0, ideal=0.9899400978296689
+Output Neuron 0:
+actual=1.0, ideal=0.9901302066126524
+Output Neuron 0:
+actual=1.0, ideal=0.9903130758937185
+Output Neuron 0:
+actual=1.0, ideal=0.990489963349769
+Output Neuron 0:
+actual=1.0, ideal=0.99066160965167
+Output Neuron 0:
+actual=1.0, ideal=0.9908284629107752
+Output Neuron 0:
+actual=1.0, ideal=0.9909908153316015
+Output Neuron 0:
+actual=1.0, ideal=0.9911488778901788
+Output Neuron 0:
+actual=1.0, ideal=0.9913028210083379
+Output Neuron 0:
+actual=1.0, ideal=0.9914527944672012
+Output Neuron 0:
+actual=1.0, ideal=0.9915989363132879
+Output Neuron 0:
+actual=1.0, ideal=0.991741376522392
+Output Neuron 0:
+actual=1.0, ideal=0.9918802389281798
+Output Neuron 0:
+actual=1.0, ideal=0.9920156420097349
+Output Neuron 0:
+actual=1.0, ideal=0.992147699314749
+Output Neuron 0:
+actual=1.0, ideal=0.9922765197549129
+Output Neuron 0:
+actual=1.0, ideal=0.992402207862494
+Output Neuron 0:
+actual=1.0, ideal=0.9925248639961907
+Output Neuron 0:
+actual=1.0, ideal=0.9926445845403162
+Output Neuron 0:
+actual=1.0, ideal=0.9927614620943196
+Output Neuron 0:
+actual=1.0, ideal=0.9928755856478567
+Output Neuron 0:
+actual=1.0, ideal=0.9467795342275933
+Output Neuron 0:
+actual=1.0, ideal=0.9516997069773405
+Output Neuron 0:
+actual=1.0, ideal=0.9563070451636305
+Output Neuron 0:
+actual=1.0, ideal=0.9606115301029549
+Output Neuron 0:
+actual=1.0, ideal=0.964623322448364
+Output Neuron 0:
+actual=1.0, ideal=0.9683527016822283
+Output Neuron 0:
+actual=1.0, ideal=0.971809744494493
+Output Neuron 0:
+actual=1.0, ideal=0.9750048582278884
+Output Neuron 0:
+actual=1.0, ideal=0.9779484136904051
+Output Neuron 0:
+actual=1.0, ideal=0.980649847767944
+Output Neuron 0:
+actual=1.0, ideal=0.9831189437721145
+Output Neuron 0:
+actual=1.0, ideal=0.9853649768000299
+Output Neuron 0:
+actual=1.0, ideal=0.9873965763469693
+Output Neuron 0:
+actual=1.0, ideal=0.989221904914184
+Output Neuron 0:
+actual=1.0, ideal=0.9908488912526247
+Output Neuron 0:
+actual=1.0, ideal=0.9922852604477501
+Output Neuron 0:
+actual=1.0, ideal=0.9935388570327109
+Output Neuron 0:
+actual=1.0, ideal=0.9946185031283306
+Output Neuron 0:
+actual=1.0, ideal=0.995533847147301
+Output Neuron 0:
+actual=1.0, ideal=0.9962964432509568
+Output Neuron 0:
+actual=1.0, ideal=0.9969194083889416
+Output Neuron 0:
+actual=1.0, ideal=0.9974176253800314
+Output Neuron 0:
+actual=1.0, ideal=0.9978073775905333
+Output Neuron 0:
+actual=1.0, ideal=0.9981054951134919
+Output Neuron 0:
+actual=1.0, ideal=0.9983287413619287
+Output Neuron 0:
+actual=1.0, ideal=0.9984928512932273
+Output Neuron 0:
+actual=1.0, ideal=0.9986119670470842
+Output Neuron 0:
+actual=1.0, ideal=0.9986980279097305
+Output Neuron 0:
+actual=1.0, ideal=0.9987607322230533
+Output Neuron 0:
+actual=1.0, ideal=0.9988074894018142
+Output Neuron 0:
+actual=1.0, ideal=0.998843711899425
+Output Neuron 0:
+actual=1.0, ideal=0.9988731762971541
+Output Neuron 0:
+actual=1.0, ideal=0.998898387258318
+Output Neuron 0:
+actual=1.0, ideal=0.998920923521435
+Output Neuron 0:
+actual=1.0, ideal=0.9989417565457515
+Output Neuron 0:
+actual=1.0, ideal=0.998961447976236
+Output Neuron 0:
+actual=1.0, ideal=0.998980317306268
+Output Neuron 0:
+actual=1.0, ideal=0.9989985404011723
+Output Neuron 0:
+actual=1.0, ideal=0.999016215280604
+Output Neuron 0:
+actual=1.0, ideal=0.9990333971281915
+Output Neuron 0:
+actual=1.0, ideal=0.9990501200989242
+Output Neuron 0:
+actual=1.0, ideal=0.9990664077131994
+Output Neuron 0:
+actual=1.0, ideal=0.9990822779794292
+Output Neuron 0:
+actual=1.0, ideal=0.9990977462487501
+Output Neuron 0:
+actual=1.0, ideal=0.9991128265689648
+Output Neuron 0:
+actual=1.0, ideal=0.99912753198452
+Output Neuron 0:
+actual=1.0, ideal=0.9991418748940698
+Output Neuron 0:
+actual=1.0, ideal=0.9991558671392228
+Output Neuron 0:
+actual=1.0, ideal=0.9991695200585975
+Output Neuron 0:
+actual=1.0, ideal=0.9991828445380893
+Output Neuron 0:
+actual=1.0, ideal=0.9991958510241044
+Output Neuron 0:
+actual=1.0, ideal=0.941170738901785
+Output Neuron 0:
+actual=1.0, ideal=0.9461504937346487
+Output Neuron 0:
+actual=1.0, ideal=0.9508197585994369
+Output Neuron 0:
+actual=1.0, ideal=0.9551883511816945
+Output Neuron 0:
+actual=1.0, ideal=0.9592656798941627
+Output Neuron 0:
+actual=1.0, ideal=0.9630605830971423
+Output Neuron 0:
+actual=1.0, ideal=0.9665825780621138
+Output Neuron 0:
+actual=1.0, ideal=0.9698407298887654
+Output Neuron 0:
+actual=1.0, ideal=0.972844070447165
+Output Neuron 0:
+actual=1.0, ideal=0.9756010597007163
+Output Neuron 0:
+actual=1.0, ideal=0.9781206899333256
+Output Neuron 0:
+actual=1.0, ideal=0.9804113885099753
+Output Neuron 0:
+actual=1.0, ideal=0.982482427575839
+Output Neuron 0:
+actual=1.0, ideal=0.9843428066441395
+Output Neuron 0:
+actual=1.0, ideal=0.9860026128091046
+Output Neuron 0:
+actual=1.0, ideal=0.9874722758121902
+Output Neuron 0:
+actual=1.0, ideal=0.9887631802317992
+Output Neuron 0:
+actual=1.0, ideal=0.9898877333530173
+Output Neuron 0:
+actual=1.0, ideal=0.9908587544843753
+Output Neuron 0:
+actual=1.0, ideal=0.9916901919668882
+Output Neuron 0:
+actual=1.0, ideal=0.992396013508404
+Output Neuron 0:
+actual=1.0, ideal=0.9929907094080386
+Output Neuron 0:
+actual=1.0, ideal=0.9934883967695722
+Output Neuron 0:
+actual=1.0, ideal=0.9939027791676607
+Output Neuron 0:
+actual=1.0, ideal=0.9942467759900012
+Output Neuron 0:
+actual=1.0, ideal=0.9945321904035684
+Output Neuron 0:
+actual=1.0, ideal=0.994769714687336
+Output Neuron 0:
+actual=1.0, ideal=0.9949686278251464
+Output Neuron 0:
+actual=1.0, ideal=0.9951368926420152
+Output Neuron 0:
+actual=1.0, ideal=0.9952811840501251
+Output Neuron 0:
+actual=1.0, ideal=0.995406869198606
+Output Neuron 0:
+actual=1.0, ideal=0.9955183000389782
+Output Neuron 0:
+actual=1.0, ideal=0.9956188216808146
+Output Neuron 0:
+actual=1.0, ideal=0.9957110034544553
+Output Neuron 0:
+actual=1.0, ideal=0.9957967824688042
+Output Neuron 0:
+actual=1.0, ideal=0.9958775718313072
+Output Neuron 0:
+actual=1.0, ideal=0.9959543959263131
+Output Neuron 0:
+actual=1.0, ideal=0.9960279942605872
+Output Neuron 0:
+actual=1.0, ideal=0.9960988845594608
+Output Neuron 0:
+actual=1.0, ideal=0.9961674363127915
+Output Neuron 0:
+actual=1.0, ideal=0.9962339074981718
+Output Neuron 0:
+actual=1.0, ideal=0.9962984888688059
+Output Neuron 0:
+actual=1.0, ideal=0.9963613164221454
+Output Neuron 0:
+actual=1.0, ideal=0.99642249462254
+Output Neuron 0:
+actual=1.0, ideal=0.9964821074760214
+Output Neuron 0:
+actual=1.0, ideal=0.9965402224583578
+Output Neuron 0:
+actual=1.0, ideal=0.9965968990872752
+Output Neuron 0:
+actual=1.0, ideal=0.9966521894363888
+Output Neuron 0:
+actual=1.0, ideal=0.9967061414838476
+Output Neuron 0:
+actual=1.0, ideal=0.9967587996400147
+Output Neuron 0:
+actual=1.0, ideal=0.9968102058709576
+Output Neuron 0:
+actual=1.0, ideal=0.9320290984249087
+Output Neuron 0:
+actual=1.0, ideal=0.9370970320954581
+Output Neuron 0:
+actual=1.0, ideal=0.9418577062360355
+Output Neuron 0:
+actual=1.0, ideal=0.9463193448787804
+Output Neuron 0:
+actual=1.0, ideal=0.9504901276062341
+Output Neuron 0:
+actual=1.0, ideal=0.9543788326717816
+Output Neuron 0:
+actual=1.0, ideal=0.9579937387752356
+Output Neuron 0:
+actual=1.0, ideal=0.9613433560760242
+Output Neuron 0:
+actual=1.0, ideal=0.9644367198466648
+Output Neuron 0:
+actual=1.0, ideal=0.9672825423825012
+Output Neuron 0:
+actual=1.0, ideal=0.9698902568070429
+Output Neuron 0:
+actual=1.0, ideal=0.9722697855452677
+Output Neuron 0:
+actual=1.0, ideal=0.9744313847648484
+Output Neuron 0:
+actual=1.0, ideal=0.9763857027557025
+Output Neuron 0:
+actual=1.0, ideal=0.9781444928435014
+Output Neuron 0:
+actual=1.0, ideal=0.9797196905625996
+Output Neuron 0:
+actual=1.0, ideal=0.9811237606327152
+Output Neuron 0:
+actual=1.0, ideal=0.982369618051787
+Output Neuron 0:
+actual=1.0, ideal=0.983470493076847
+Output Neuron 0:
+actual=1.0, ideal=0.984439675370857
+Output Neuron 0:
+actual=1.0, ideal=0.9852902881353679
+Output Neuron 0:
+actual=1.0, ideal=0.9860353485364026
+Output Neuron 0:
+actual=1.0, ideal=0.9866872266797589
+Output Neuron 0:
+actual=1.0, ideal=0.9872576365676471
+Output Neuron 0:
+actual=1.0, ideal=0.9877575359891291
+Output Neuron 0:
+actual=1.0, ideal=0.9881970362413365
+Output Neuron 0:
+actual=1.0, ideal=0.9885851348031096
+Output Neuron 0:
+actual=1.0, ideal=0.9889299699177406
+Output Neuron 0:
+actual=1.0, ideal=0.9892385523907585
+Output Neuron 0:
+actual=1.0, ideal=0.9895170272370577
+Output Neuron 0:
+actual=1.0, ideal=0.9897705534428914
+Output Neuron 0:
+actual=1.0, ideal=0.9900034771417443
+Output Neuron 0:
+actual=1.0, ideal=0.9902194005970754
+Output Neuron 0:
+actual=1.0, ideal=0.990421265941826
+Output Neuron 0:
+actual=1.0, ideal=0.9906114449297598
+Output Neuron 0:
+actual=1.0, ideal=0.9907918495993857
+Output Neuron 0:
+actual=1.0, ideal=0.9909639739096823
+Output Neuron 0:
+actual=1.0, ideal=0.9911290001143711
+Output Neuron 0:
+actual=1.0, ideal=0.9912878621651242
+Output Neuron 0:
+actual=1.0, ideal=0.9914412795300273
+Output Neuron 0:
+actual=1.0, ideal=0.991589812643997
+Output Neuron 0:
+actual=1.0, ideal=0.9917339071919036
+Output Neuron 0:
+actual=1.0, ideal=0.9918739070842322
+Output Neuron 0:
+actual=1.0, ideal=0.992010094135264
+Output Neuron 0:
+actual=1.0, ideal=0.9921426929155476
+Output Neuron 0:
+actual=1.0, ideal=0.9922718913734526
+Output Neuron 0:
+actual=1.0, ideal=0.9923978477151681
+Output Neuron 0:
+actual=1.0, ideal=0.9925206984783882
+Output Neuron 0:
+actual=1.0, ideal=0.9926405651595116
+Output Neuron 0:
+actual=1.0, ideal=0.9927575566963106
+Output Neuron 0:
+actual=1.0, ideal=0.9928717732172835
+Output Neuron 0:
+actual=1.0, ideal=0.9467621837817227
+Output Neuron 0:
+actual=1.0, ideal=0.9516808440599405
+Output Neuron 0:
+actual=1.0, ideal=0.95628550967401
+Output Neuron 0:
+actual=1.0, ideal=0.9605857416680408
+Output Neuron 0:
+actual=1.0, ideal=0.964591120274078
+Output Neuron 0:
+actual=1.0, ideal=0.9683109850264151
+Output Neuron 0:
+actual=1.0, ideal=0.971754547218678
+Output Neuron 0:
+actual=1.0, ideal=0.9749314920046374
+Output Neuron 0:
+actual=1.0, ideal=0.9778505154367142
+Output Neuron 0:
+actual=1.0, ideal=0.9805208254025662
+Output Neuron 0:
+actual=1.0, ideal=0.9829513314640063
+Output Neuron 0:
+actual=1.0, ideal=0.985151665192922
+Output Neuron 0:
+actual=1.0, ideal=0.9871311229555041
+Output Neuron 0:
+actual=1.0, ideal=0.9888998051145025
+Output Neuron 0:
+actual=1.0, ideal=0.990468300606142
+Output Neuron 0:
+actual=1.0, ideal=0.9918482628997999
+Output Neuron 0:
+actual=1.0, ideal=0.9930516273370007
+Output Neuron 0:
+actual=1.0, ideal=0.9940911953143347
+Output Neuron 0:
+actual=1.0, ideal=0.994980473489398
+Output Neuron 0:
+actual=1.0, ideal=0.9957336146648489
+Output Neuron 0:
+actual=1.0, ideal=0.9963646471791863
+Output Neuron 0:
+actual=1.0, ideal=0.9968877579504823
+Output Neuron 0:
+actual=1.0, ideal=0.9973169212552295
+Output Neuron 0:
+actual=1.0, ideal=0.9976653830173405
+Output Neuron 0:
+actual=1.0, ideal=0.9979455888689445
+Output Neuron 0:
+actual=1.0, ideal=0.9981689604403412
+Output Neuron 0:
+actual=1.0, ideal=0.9983457509279724
+Output Neuron 0:
+actual=1.0, ideal=0.9984849711167351
+Output Neuron 0:
+actual=1.0, ideal=0.9985942960274002
+Output Neuron 0:
+actual=1.0, ideal=0.9986802520879188
+Output Neuron 0:
+actual=1.0, ideal=0.998748190475006
+Output Neuron 0:
+actual=1.0, ideal=0.9988024294892942
+Output Neuron 0:
+actual=1.0, ideal=0.9988463948411749
+Output Neuron 0:
+actual=1.0, ideal=0.998882725163866
+Output Neuron 0:
+actual=1.0, ideal=0.9989134518535047
+Output Neuron 0:
+actual=1.0, ideal=0.9989400772048707
+Output Neuron 0:
+actual=1.0, ideal=0.9989637162459116
+Output Neuron 0:
+actual=1.0, ideal=0.9989851653962865
+Output Neuron 0:
+actual=1.0, ideal=0.9990049983378093
+Output Neuron 0:
+actual=1.0, ideal=0.9990236150976564
+Output Neuron 0:
+actual=1.0, ideal=0.9990412921246534
+Output Neuron 0:
+actual=1.0, ideal=0.9990582213614466
+Output Neuron 0:
+actual=1.0, ideal=0.9990745320405608
+Output Neuron 0:
+actual=1.0, ideal=0.9990903131487165
+Output Neuron 0:
+actual=1.0, ideal=0.9991056267435382
+Output Neuron 0:
+actual=1.0, ideal=0.999120515732855
+Output Neuron 0:
+actual=1.0, ideal=0.9991350113951847
+Output Neuron 0:
+actual=1.0, ideal=0.9991491370157242
+Output Neuron 0:
+actual=1.0, ideal=0.9991629109463717
+Output Neuron 0:
+actual=1.0, ideal=0.9991763481654913
+Output Neuron 0:
+actual=1.0, ideal=0.9991894618391273
+Output Neuron 0:
+actual=1.0, ideal=0.9410550989938039
+Output Neuron 0:
+actual=1.0, ideal=0.9460020200000373
+Output Neuron 0:
+actual=1.0, ideal=0.9506313805514591
+Output Neuron 0:
+actual=1.0, ideal=0.9549515684869334
+Output Neuron 0:
+actual=1.0, ideal=0.9589721070222562
+Output Neuron 0:
+actual=1.0, ideal=0.9627020640576647
+Output Neuron 0:
+actual=1.0, ideal=0.9661510877304991
+Output Neuron 0:
+actual=1.0, ideal=0.9693293772248701
+Output Neuron 0:
+actual=1.0, ideal=0.9722476460535187
+Output Neuron 0:
+actual=1.0, ideal=0.9749170781492279
+Output Neuron 0:
+actual=1.0, ideal=0.9773488781763343
+Output Neuron 0:
+actual=1.0, ideal=0.9795551006551877
+Output Neuron 0:
+actual=1.0, ideal=0.9815482640822297
+Output Neuron 0:
+actual=1.0, ideal=0.9833410582848199
+Output Neuron 0:
+actual=1.0, ideal=0.9849464229984605
+Output Neuron 0:
+actual=1.0, ideal=0.9863775502452582
+Output Neuron 0:
+actual=1.0, ideal=0.9876478250317677
+Output Neuron 0:
+actual=1.0, ideal=0.9887702787056568
+Output Neuron 0:
+actual=1.0, ideal=0.9897581534545672
+Output Neuron 0:
+actual=1.0, ideal=0.9906240382141323
+Output Neuron 0:
+actual=1.0, ideal=0.9913802787139739
+Output Neuron 0:
+actual=1.0, ideal=0.9920385518907766
+Output Neuron 0:
+actual=1.0, ideal=0.9926098849056176
+Output Neuron 0:
+actual=1.0, ideal=0.9931048238745117
+Output Neuron 0:
+actual=1.0, ideal=0.9935328398794372
+Output Neuron 0:
+actual=1.0, ideal=0.9939027225118419
+Output Neuron 0:
+actual=1.0, ideal=0.9942226002262611
+Output Neuron 0:
+actual=1.0, ideal=0.9944994927747944
+Output Neuron 0:
+actual=1.0, ideal=0.994739810456891
+Output Neuron 0:
+actual=1.0, ideal=0.9949491604248406
+Output Neuron 0:
+actual=1.0, ideal=0.9951324405604172
+Output Neuron 0:
+actual=1.0, ideal=0.9952938480028761
+Output Neuron 0:
+actual=1.0, ideal=0.9954370003094555
+Output Neuron 0:
+actual=1.0, ideal=0.9955649531489923
+Output Neuron 0:
+actual=1.0, ideal=0.9956803028427691
+Output Neuron 0:
+actual=1.0, ideal=0.9957852085458727
+Output Neuron 0:
+actual=1.0, ideal=0.9958814347781356
+Output Neuron 0:
+actual=1.0, ideal=0.9959704592307103
+Output Neuron 0:
+actual=1.0, ideal=0.9960534975608835
+Output Neuron 0:
+actual=1.0, ideal=0.9961315078242646
+Output Neuron 0:
+actual=1.0, ideal=0.9962052781792112
+Output Neuron 0:
+actual=1.0, ideal=0.9962754511977578
+Output Neuron 0:
+actual=1.0, ideal=0.9963425338504842
+Output Neuron 0:
+actual=1.0, ideal=0.9964069307424112
+Output Neuron 0:
+actual=1.0, ideal=0.9964689648809478
+Output Neuron 0:
+actual=1.0, ideal=0.9965288945565609
+Output Neuron 0:
+actual=1.0, ideal=0.9965869332462024
+Output Neuron 0:
+actual=1.0, ideal=0.9966432432464902
+Output Neuron 0:
+actual=1.0, ideal=0.9966979633841107
+Output Neuron 0:
+actual=1.0, ideal=0.996751200658063
+Output Neuron 0:
+actual=1.0, ideal=0.9968030499615826
+Output Neuron 0:
+actual=1.0, ideal=0.9316041437503365
+Output Neuron 0:
+actual=1.0, ideal=0.9365888704177734
+Output Neuron 0:
+actual=1.0, ideal=0.9412579206174102
+Output Neuron 0:
+actual=1.0, ideal=0.9456201411667288
+Output Neuron 0:
+actual=1.0, ideal=0.9496852499697502
+Output Neuron 0:
+actual=1.0, ideal=0.9534639985287239
+Output Neuron 0:
+actual=1.0, ideal=0.9569669385456439
+Output Neuron 0:
+actual=1.0, ideal=0.9602052797210274
+Output Neuron 0:
+actual=1.0, ideal=0.9631909984764164
+Output Neuron 0:
+actual=1.0, ideal=0.9659364324240824
+Output Neuron 0:
+actual=1.0, ideal=0.9684537713969162
+Output Neuron 0:
+actual=1.0, ideal=0.9707556489587562
+Output Neuron 0:
+actual=1.0, ideal=0.9728551413841284
+Output Neuron 0:
+actual=1.0, ideal=0.9747650633682688
+Output Neuron 0:
+actual=1.0, ideal=0.9764983959517827
+Output Neuron 0:
+actual=1.0, ideal=0.9780675464394937
+Output Neuron 0:
+actual=1.0, ideal=0.9794852867672839
+Output Neuron 0:
+actual=1.0, ideal=0.9807637383082203
+Output Neuron 0:
+actual=1.0, ideal=0.9819146091512632
+Output Neuron 0:
+actual=1.0, ideal=0.9829492233779138
+Output Neuron 0:
+actual=1.0, ideal=0.98387842443629
+Output Neuron 0:
+actual=1.0, ideal=0.9847122533555367
+Output Neuron 0:
+actual=1.0, ideal=0.9854604525510455
+Output Neuron 0:
+actual=1.0, ideal=0.9861318343193388
+Output Neuron 0:
+actual=1.0, ideal=0.9867347573042345
+Output Neuron 0:
+actual=1.0, ideal=0.9872768185817631
+Output Neuron 0:
+actual=1.0, ideal=0.9877649553875623
+Output Neuron 0:
+actual=1.0, ideal=0.9882055155940946
+Output Neuron 0:
+actual=1.0, ideal=0.9886042224571107
+Output Neuron 0:
+actual=1.0, ideal=0.9889661730491063
+Output Neuron 0:
+actual=1.0, ideal=0.9892959281518776
+Output Neuron 0:
+actual=1.0, ideal=0.9895976076042929
+Output Neuron 0:
+actual=1.0, ideal=0.9898747608592674
+Output Neuron 0:
+actual=1.0, ideal=0.9901305241310407
+Output Neuron 0:
+actual=1.0, ideal=0.9903676751257193
+Output Neuron 0:
+actual=1.0, ideal=0.9905885589315403
+Output Neuron 0:
+actual=1.0, ideal=0.9907952838062047
+Output Neuron 0:
+actual=1.0, ideal=0.9909896270769467
+Output Neuron 0:
+actual=1.0, ideal=0.9911731045628615
+Output Neuron 0:
+actual=1.0, ideal=0.9913470568884302
+Output Neuron 0:
+actual=1.0, ideal=0.9915126028697925
+Output Neuron 0:
+actual=1.0, ideal=0.9916706798160475
+Output Neuron 0:
+actual=1.0, ideal=0.9918221255302565
+Output Neuron 0:
+actual=1.0, ideal=0.9919676113381536
+Output Neuron 0:
+actual=1.0, ideal=0.9921077403165839
+Output Neuron 0:
+actual=1.0, ideal=0.9922429998067444
+Output Neuron 0:
+actual=1.0, ideal=0.9923738187318963
+Output Neuron 0:
+actual=1.0, ideal=0.9925005581906081
+Output Neuron 0:
+actual=1.0, ideal=0.9926235201499727
+Output Neuron 0:
+actual=1.0, ideal=0.9927429729930463
+Output Neuron 0:
+actual=1.0, ideal=0.9928591417027984
+Output Neuron 0:
+actual=1.0, ideal=0.9466807042498692
+Output Neuron 0:
+actual=1.0, ideal=0.9515779110802958
+Output Neuron 0:
+actual=1.0, ideal=0.9561555649149717
+Output Neuron 0:
+actual=1.0, ideal=0.9604229141954803
+Output Neuron 0:
+actual=1.0, ideal=0.96438863772047
+Output Neuron 0:
+actual=1.0, ideal=0.9680625376024805
+Output Neuron 0:
+actual=1.0, ideal=0.9714540115531312
+Output Neuron 0:
+actual=1.0, ideal=0.974573045888084
+Output Neuron 0:
+actual=1.0, ideal=0.9774304148276564
+Output Neuron 0:
+actual=1.0, ideal=0.9800364722969229
+Output Neuron 0:
+actual=1.0, ideal=0.9824026300244751
+Output Neuron 0:
+actual=1.0, ideal=0.9845407611031601
+Output Neuron 0:
+actual=1.0, ideal=0.9864629593802983
+Output Neuron 0:
+actual=1.0, ideal=0.9881816919221
+Output Neuron 0:
+actual=1.0, ideal=0.9897102916067687
+Output Neuron 0:
+actual=1.0, ideal=0.9910619543602558
+Output Neuron 0:
+actual=1.0, ideal=0.9922499717551849
+Output Neuron 0:
+actual=1.0, ideal=0.9932879268336858
+Output Neuron 0:
+actual=1.0, ideal=0.9941893154473398
+Output Neuron 0:
+actual=1.0, ideal=0.9949671775117608
+Output Neuron 0:
+actual=1.0, ideal=0.995634507772312
+Output Neuron 0:
+actual=1.0, ideal=0.9962033697358852
+Output Neuron 0:
+actual=1.0, ideal=0.9966855362368797
+Output Neuron 0:
+actual=1.0, ideal=0.9970918234742926
+Output Neuron 0:
+actual=1.0, ideal=0.9974323731709143
+Output Neuron 0:
+actual=1.0, ideal=0.9977164037906915
+Output Neuron 0:
+actual=1.0, ideal=0.9979522583537325
+Output Neuron 0:
+actual=1.0, ideal=0.9981473687992933
+Output Neuron 0:
+actual=1.0, ideal=0.9983083258645751
+Output Neuron 0:
+actual=1.0, ideal=0.9984409084477562
+Output Neuron 0:
+actual=1.0, ideal=0.9985500575663675
+Output Neuron 0:
+actual=1.0, ideal=0.998640034116566
+Output Neuron 0:
+actual=1.0, ideal=0.9987144335959385
+Output Neuron 0:
+actual=1.0, ideal=0.998776250347935
+Output Neuron 0:
+actual=1.0, ideal=0.9988279870598631
+Output Neuron 0:
+actual=1.0, ideal=0.9988716791138329
+Output Neuron 0:
+actual=1.0, ideal=0.99890898286418
+Output Neuron 0:
+actual=1.0, ideal=0.9989412514171793
+Output Neuron 0:
+actual=1.0, ideal=0.9989695422404217
+Output Neuron 0:
+actual=1.0, ideal=0.9989947039158885
+Output Neuron 0:
+actual=1.0, ideal=0.9990173905130909
+Output Neuron 0:
+actual=1.0, ideal=0.9990381301772425
+Output Neuron 0:
+actual=1.0, ideal=0.9990573175728719
+Output Neuron 0:
+actual=1.0, ideal=0.999075260269739
+Output Neuron 0:
+actual=1.0, ideal=0.999092193452317
+Output Neuron 0:
+actual=1.0, ideal=0.9991082962033331
+Output Neuron 0:
+actual=1.0, ideal=0.9991237060419935
+Output Neuron 0:
+actual=1.0, ideal=0.9991385238840002
+Output Neuron 0:
+actual=1.0, ideal=0.9991528290759055
+Output Neuron 0:
+actual=1.0, ideal=0.9991666797215697
+Output Neuron 0:
+actual=1.0, ideal=0.9991801236788209
+Output Neuron 0:
+actual=1.0, ideal=0.9404155733429407
+Output Neuron 0:
+actual=1.0, ideal=0.9452690658933633
+Output Neuron 0:
+actual=1.0, ideal=0.9498002681582869
+Output Neuron 0:
+actual=1.0, ideal=0.9540205741533198
+Output Neuron 0:
+actual=1.0, ideal=0.9579404096712278
+Output Neuron 0:
+actual=1.0, ideal=0.9615718249856857
+Output Neuron 0:
+actual=1.0, ideal=0.9649262425749974
+Output Neuron 0:
+actual=1.0, ideal=0.9680164348349011
+Output Neuron 0:
+actual=1.0, ideal=0.9708554555163259
+Output Neuron 0:
+actual=1.0, ideal=0.9734560892582932
+Output Neuron 0:
+actual=1.0, ideal=0.9758317281011556
+Output Neuron 0:
+actual=1.0, ideal=0.9779957414479886
+Output Neuron 0:
+actual=1.0, ideal=0.9799613909465381
+Output Neuron 0:
+actual=1.0, ideal=0.9817419215957857
+Output Neuron 0:
+actual=1.0, ideal=0.9833504321980349
+Output Neuron 0:
+actual=1.0, ideal=0.9847996175506444
+Output Neuron 0:
+actual=1.0, ideal=0.9861021290062635
+Output Neuron 0:
+actual=1.0, ideal=0.9872698900681097
+Output Neuron 0:
+actual=1.0, ideal=0.98831436238211
+Output Neuron 0:
+actual=1.0, ideal=0.9892465945807327
+Output Neuron 0:
+actual=1.0, ideal=0.9900771366771187
+Output Neuron 0:
+actual=1.0, ideal=0.990815619099237
+Output Neuron 0:
+actual=1.0, ideal=0.9914714251204366
+Output Neuron 0:
+actual=1.0, ideal=0.9920530893364923
+Output Neuron 0:
+actual=1.0, ideal=0.9925684430221856
+Output Neuron 0:
+actual=1.0, ideal=0.9930249025977824
+Output Neuron 0:
+actual=1.0, ideal=0.9934291147769911
+Output Neuron 0:
+actual=1.0, ideal=0.9937870885990527
+Output Neuron 0:
+actual=1.0, ideal=0.9941043372058948
+Output Neuron 0:
+actual=1.0, ideal=0.9943859225132663
+Output Neuron 0:
+actual=1.0, ideal=0.9946361375896061
+Output Neuron 0:
+actual=1.0, ideal=0.9948590728378339
+Output Neuron 0:
+actual=1.0, ideal=0.9950581892383732
+Output Neuron 0:
+actual=1.0, ideal=0.995236604798762
+Output Neuron 0:
+actual=1.0, ideal=0.9953970544409815
+Output Neuron 0:
+actual=1.0, ideal=0.9955419309676379
+Output Neuron 0:
+actual=1.0, ideal=0.9956733637860551
+Output Neuron 0:
+actual=1.0, ideal=0.9957931388076683
+Output Neuron 0:
+actual=1.0, ideal=0.9959028619201574
+Output Neuron 0:
+actual=1.0, ideal=0.9960038840668719
+Output Neuron 0:
+actual=1.0, ideal=0.996097385391398
+Output Neuron 0:
+actual=1.0, ideal=0.9961843785035335
+Output Neuron 0:
+actual=1.0, ideal=0.9962656979668647
+Output Neuron 0:
+actual=1.0, ideal=0.9963421126860826
+Output Neuron 0:
+actual=1.0, ideal=0.996414220452211
+Output Neuron 0:
+actual=1.0, ideal=0.9964825761737768
+Output Neuron 0:
+actual=1.0, ideal=0.9965476203330199
+Output Neuron 0:
+actual=1.0, ideal=0.9966097426172031
+Output Neuron 0:
+actual=1.0, ideal=0.9966692570822875
+Output Neuron 0:
+actual=1.0, ideal=0.996726443218276
+Output Neuron 0:
+actual=1.0, ideal=0.9967815380502084
+Output Neuron 0:
+actual=1.0, ideal=0.9301099606656263
+Output Neuron 0:
+actual=1.0, ideal=0.9349664242744177
+Output Neuron 0:
+actual=1.0, ideal=0.9395113367931849
+Output Neuron 0:
+actual=1.0, ideal=0.9437560110309255
+Output Neuron 0:
+actual=1.0, ideal=0.9477125553207665
+Output Neuron 0:
+actual=1.0, ideal=0.9513931193016386
+Output Neuron 0:
+actual=1.0, ideal=0.9548104071261277
+Output Neuron 0:
+actual=1.0, ideal=0.957977505340932
+Output Neuron 0:
+actual=1.0, ideal=0.9609070048119378
+Output Neuron 0:
+actual=1.0, ideal=0.963611966262579
+Output Neuron 0:
+actual=1.0, ideal=0.9661057091711405
+Output Neuron 0:
+actual=1.0, ideal=0.9684004240469114
+Output Neuron 0:
+actual=1.0, ideal=0.9705092502517474
+Output Neuron 0:
+actual=1.0, ideal=0.9724441087922406
+Output Neuron 0:
+actual=1.0, ideal=0.9742172253372791
+Output Neuron 0:
+actual=1.0, ideal=0.9758399594695988
+Output Neuron 0:
+actual=1.0, ideal=0.9773233313828656
+Output Neuron 0:
+actual=1.0, ideal=0.9786783650285812
+Output Neuron 0:
+actual=1.0, ideal=0.9799149017567015
+Output Neuron 0:
+actual=1.0, ideal=0.9810427270000406
+Output Neuron 0:
+actual=1.0, ideal=0.9820707609785394
+Output Neuron 0:
+actual=1.0, ideal=0.9830076653581804
+Output Neuron 0:
+actual=1.0, ideal=0.9838614720528759
+Output Neuron 0:
+actual=1.0, ideal=0.9846395286223617
+Output Neuron 0:
+actual=1.0, ideal=0.9853488037568856
+Output Neuron 0:
+actual=1.0, ideal=0.9859958554852447
+Output Neuron 0:
+actual=1.0, ideal=0.9865864658757411
+Output Neuron 0:
+actual=1.0, ideal=0.9871261429810634
+Output Neuron 0:
+actual=1.0, ideal=0.9876199001567488
+Output Neuron 0:
+actual=1.0, ideal=0.9880722395355711
+Output Neuron 0:
+actual=1.0, ideal=0.9884873590526735
+Output Neuron 0:
+actual=1.0, ideal=0.9888690513820235
+Output Neuron 0:
+actual=1.0, ideal=0.9892207383178869
+Output Neuron 0:
+actual=1.0, ideal=0.9895454637223606
+Output Neuron 0:
+actual=1.0, ideal=0.9898460827132005
+Output Neuron 0:
+actual=1.0, ideal=0.9901250781117888
+Output Neuron 0:
+actual=1.0, ideal=0.9903847083590589
+Output Neuron 0:
+actual=1.0, ideal=0.9906269350496956
+Output Neuron 0:
+actual=1.0, ideal=0.9908536224092052
+Output Neuron 0:
+actual=1.0, ideal=0.9910663258158248
+Output Neuron 0:
+actual=1.0, ideal=0.9912665040332993
+Output Neuron 0:
+actual=1.0, ideal=0.9914554286209545
+Output Neuron 0:
+actual=1.0, ideal=0.9916341924224685
+Output Neuron 0:
+actual=1.0, ideal=0.991803821685205
+Output Neuron 0:
+actual=1.0, ideal=0.9919652062431866
+Output Neuron 0:
+actual=1.0, ideal=0.9921190924268436
+Output Neuron 0:
+actual=1.0, ideal=0.9922662117436687
+Output Neuron 0:
+actual=1.0, ideal=0.9924071586148364
+Output Neuron 0:
+actual=1.0, ideal=0.9925424837175006
+Output Neuron 0:
+actual=1.0, ideal=0.9926726443241048
+Output Neuron 0:
+actual=1.0, ideal=0.9927980760030719
+Output Neuron 0:
+actual=1.0, ideal=0.9463680205964063
+Output Neuron 0:
+actual=1.0, ideal=0.9512086947559151
+Output Neuron 0:
+actual=1.0, ideal=0.9557248234356589
+Output Neuron 0:
+actual=1.0, ideal=0.9599264886860861
+Output Neuron 0:
+actual=1.0, ideal=0.9638236156558151
+Output Neuron 0:
+actual=1.0, ideal=0.9674269841942419
+Output Neuron 0:
+actual=1.0, ideal=0.9707483744798995
+Output Neuron 0:
+actual=1.0, ideal=0.9737993454623238
+Output Neuron 0:
+actual=1.0, ideal=0.9765925462226075
+Output Neuron 0:
+actual=1.0, ideal=0.9791400999601878
+Output Neuron 0:
+actual=1.0, ideal=0.9814554437922979
+Output Neuron 0:
+actual=1.0, ideal=0.9835517538710095
+Output Neuron 0:
+actual=1.0, ideal=0.9854423378061473
+Output Neuron 0:
+actual=1.0, ideal=0.9871406922487299
+Output Neuron 0:
+actual=1.0, ideal=0.9886604927035877
+Output Neuron 0:
+actual=1.0, ideal=0.9900149662405702
+Output Neuron 0:
+actual=1.0, ideal=0.9912172720183205
+Output Neuron 0:
+actual=1.0, ideal=0.9922802134221884
+Output Neuron 0:
+actual=1.0, ideal=0.9932161461084686
+Output Neuron 0:
+actual=1.0, ideal=0.9940371019726866
+Output Neuron 0:
+actual=1.0, ideal=0.9947542785818968
+Output Neuron 0:
+actual=1.0, ideal=0.9953785012068
+Output Neuron 0:
+actual=1.0, ideal=0.9959197765134293
+Output Neuron 0:
+actual=1.0, ideal=0.9963875286866198
+Output Neuron 0:
+actual=1.0, ideal=0.9967902886312618
+Output Neuron 0:
+actual=1.0, ideal=0.9971360514996519
+Output Neuron 0:
+actual=1.0, ideal=0.9974320596745935
+Output Neuron 0:
+actual=1.0, ideal=0.9976847934301271
+Output Neuron 0:
+actual=1.0, ideal=0.9979001547690214
+Output Neuron 0:
+actual=1.0, ideal=0.9980833178317331
+Output Neuron 0:
+actual=1.0, ideal=0.9982389444208207
+Output Neuron 0:
+actual=1.0, ideal=0.9983711028939946
+Output Neuron 0:
+actual=1.0, ideal=0.9984833575810707
+Output Neuron 0:
+actual=1.0, ideal=0.9985787667462153
+Output Neuron 0:
+actual=1.0, ideal=0.9986600123695639
+Output Neuron 0:
+actual=1.0, ideal=0.9987293888148318
+Output Neuron 0:
+actual=1.0, ideal=0.9987888670338417
+Output Neuron 0:
+actual=1.0, ideal=0.9988400862366955
+Output Neuron 0:
+actual=1.0, ideal=0.9988844610585451
+Output Neuron 0:
+actual=1.0, ideal=0.9989231555206288
+Output Neuron 0:
+actual=1.0, ideal=0.9989571575558889
+Output Neuron 0:
+actual=1.0, ideal=0.9989872987634202
+Output Neuron 0:
+actual=1.0, ideal=0.9990142363412522
+Output Neuron 0:
+actual=1.0, ideal=0.9990385456809572
+Output Neuron 0:
+actual=1.0, ideal=0.999060674058119
+Output Neuron 0:
+actual=1.0, ideal=0.9990809970135592
+Output Neuron 0:
+actual=1.0, ideal=0.9990998266679578
+Output Neuron 0:
+actual=1.0, ideal=0.9991174012033455
+Output Neuron 0:
+actual=1.0, ideal=0.9991339273962568
+Output Neuron 0:
+actual=1.0, ideal=0.9991495663995775
+Output Neuron 0:
+actual=1.0, ideal=0.9991644470265775
+Output Neuron 0:
+actual=1.0, ideal=0.9389755260717086
+Output Neuron 0:
+actual=1.0, ideal=0.9437221773620548
+Output Neuron 0:
+actual=1.0, ideal=0.9481525214943367
+Output Neuron 0:
+actual=1.0, ideal=0.952278864272151
+Output Neuron 0:
+actual=1.0, ideal=0.9561142256433357
+Output Neuron 0:
+actual=1.0, ideal=0.9596712732779605
+Output Neuron 0:
+actual=1.0, ideal=0.9629632105690407
+Output Neuron 0:
+actual=1.0, ideal=0.9660036000839248
+Output Neuron 0:
+actual=1.0, ideal=0.9688057073156445
+Output Neuron 0:
+actual=1.0, ideal=0.9713834258593107
+Output Neuron 0:
+actual=1.0, ideal=0.9737496848218233
+Output Neuron 0:
+actual=1.0, ideal=0.9759176252747847
+Output Neuron 0:
+actual=1.0, ideal=0.9779006098650389
+Output Neuron 0:
+actual=1.0, ideal=0.9797105518058762
+Output Neuron 0:
+actual=1.0, ideal=0.9813602237814745
+Output Neuron 0:
+actual=1.0, ideal=0.9828609305757099
+Output Neuron 0:
+actual=1.0, ideal=0.9842242609253009
+Output Neuron 0:
+actual=1.0, ideal=0.985460715628333
+Output Neuron 0:
+actual=1.0, ideal=0.9865807685408053
+Output Neuron 0:
+actual=1.0, ideal=0.9875939694186538
+Output Neuron 0:
+actual=1.0, ideal=0.9885093898435169
+Output Neuron 0:
+actual=1.0, ideal=0.989335810550079
+Output Neuron 0:
+actual=1.0, ideal=0.9900810523756916
+Output Neuron 0:
+actual=1.0, ideal=0.990752569024443
+Output Neuron 0:
+actual=1.0, ideal=0.9913574066533622
+Output Neuron 0:
+actual=1.0, ideal=0.9919020210379151
+Output Neuron 0:
+actual=1.0, ideal=0.992392174404291
+Output Neuron 0:
+actual=1.0, ideal=0.9928333592918156
+Output Neuron 0:
+actual=1.0, ideal=0.9932305692045673
+Output Neuron 0:
+actual=1.0, ideal=0.9935882805881746
+Output Neuron 0:
+actual=1.0, ideal=0.9939106679360205
+Output Neuron 0:
+actual=1.0, ideal=0.9942014496461491
+Output Neuron 0:
+actual=1.0, ideal=0.9944640308342426
+Output Neuron 0:
+actual=1.0, ideal=0.9947015156738889
+Output Neuron 0:
+actual=1.0, ideal=0.9949165705334744
+Output Neuron 0:
+actual=1.0, ideal=0.995111742666882
+Output Neuron 0:
+actual=1.0, ideal=0.995289234148534
+Output Neuron 0:
+actual=1.0, ideal=0.995451043952374
+Output Neuron 0:
+actual=1.0, ideal=0.9955988970682196
+Output Neuron 0:
+actual=1.0, ideal=0.9957344121545918
+Output Neuron 0:
+actual=1.0, ideal=0.9958589741560913
+Output Neuron 0:
+actual=1.0, ideal=0.995973835603838
+Output Neuron 0:
+actual=1.0, ideal=0.9960800851000743
+Output Neuron 0:
+actual=1.0, ideal=0.9961787055285399
+Output Neuron 0:
+actual=1.0, ideal=0.9962705314341864
+Output Neuron 0:
+actual=1.0, ideal=0.9963563482838781
+Output Neuron 0:
+actual=1.0, ideal=0.9964368029363727
+Output Neuron 0:
+actual=1.0, ideal=0.9965124811970422
+Output Neuron 0:
+actual=1.0, ideal=0.9965838989354863
+Output Neuron 0:
+actual=1.0, ideal=0.9966515098243239
+Output Neuron 0:
+actual=1.0, ideal=0.9967157123305055
+Output Neuron 0:
+actual=1.0, ideal=0.9274783327235376
+Output Neuron 0:
+actual=1.0, ideal=0.9322335429780215
+Output Neuron 0:
+actual=1.0, ideal=0.9366904267852758
+Output Neuron 0:
+actual=1.0, ideal=0.940860769302506
+Output Neuron 0:
+actual=1.0, ideal=0.9447575537539682
+Output Neuron 0:
+actual=1.0, ideal=0.9483934679833167
+Output Neuron 0:
+actual=1.0, ideal=0.9517811824361447
+Output Neuron 0:
+actual=1.0, ideal=0.9549340792287728
+Output Neuron 0:
+actual=1.0, ideal=0.9578642149916464
+Output Neuron 0:
+actual=1.0, ideal=0.9605844596373766
+Output Neuron 0:
+actual=1.0, ideal=0.9631070543956503
+Output Neuron 0:
+actual=1.0, ideal=0.9654438599094086
+Output Neuron 0:
+actual=1.0, ideal=0.9676065338465611
+Output Neuron 0:
+actual=1.0, ideal=0.9696062624971283
+Output Neuron 0:
+actual=1.0, ideal=0.9714537507200117
+Output Neuron 0:
+actual=1.0, ideal=0.973159559395302
+Output Neuron 0:
+actual=1.0, ideal=0.9747335213657895
+Output Neuron 0:
+actual=1.0, ideal=0.9761851039856464
+Output Neuron 0:
+actual=1.0, ideal=0.9775230873487845
+Output Neuron 0:
+actual=1.0, ideal=0.9787560275355346
+Output Neuron 0:
+actual=1.0, ideal=0.979891935962028
+Output Neuron 0:
+actual=1.0, ideal=0.9809381832477868
+Output Neuron 0:
+actual=1.0, ideal=0.9819018952834003
+Output Neuron 0:
+actual=1.0, ideal=0.9827895893003994
+Output Neuron 0:
+actual=1.0, ideal=0.9836075302787013
+Output Neuron 0:
+actual=1.0, ideal=0.9843613230248839
+Output Neuron 0:
+actual=1.0, ideal=0.9850563474640606
+Output Neuron 0:
+actual=1.0, ideal=0.9856974824766512
+Output Neuron 0:
+actual=1.0, ideal=0.9862893121631569
+Output Neuron 0:
+actual=1.0, ideal=0.9868360540604049
+Output Neuron 0:
+actual=1.0, ideal=0.9873415847609313
+Output Neuron 0:
+actual=1.0, ideal=0.9878094641869132
+Output Neuron 0:
+actual=1.0, ideal=0.988242958521541
+Output Neuron 0:
+actual=1.0, ideal=0.9886451164364336
+Output Neuron 0:
+actual=1.0, ideal=0.9890187204825376
+Output Neuron 0:
+actual=1.0, ideal=0.9893662606398168
+Output Neuron 0:
+actual=1.0, ideal=0.989690014403256
+Output Neuron 0:
+actual=1.0, ideal=0.9899921464054464
+Output Neuron 0:
+actual=1.0, ideal=0.9902745408329883
+Output Neuron 0:
+actual=1.0, ideal=0.990538953840275
+Output Neuron 0:
+actual=1.0, ideal=0.990786946965469
+Output Neuron 0:
+actual=1.0, ideal=0.9910199752850998
+Output Neuron 0:
+actual=1.0, ideal=0.9912393880090222
+Output Neuron 0:
+actual=1.0, ideal=0.9914463208334026
+Output Neuron 0:
+actual=1.0, ideal=0.9916418891508797
+Output Neuron 0:
+actual=1.0, ideal=0.9918270505957967
+Output Neuron 0:
+actual=1.0, ideal=0.9920026760490461
+Output Neuron 0:
+actual=1.0, ideal=0.992169598252792
+Output Neuron 0:
+actual=1.0, ideal=0.9923285084932996
+Output Neuron 0:
+actual=1.0, ideal=0.9924800740018892
+Output Neuron 0:
+actual=1.0, ideal=0.9926248805172648
+Output Neuron 0:
+actual=1.0, ideal=0.9456773717554489
+Output Neuron 0:
+actual=1.0, ideal=0.9504420339075426
+Output Neuron 0:
+actual=1.0, ideal=0.9548818290449648
+Output Neuron 0:
+actual=1.0, ideal=0.9590088574615596
+Output Neuron 0:
+actual=1.0, ideal=0.9628344844135189
+Output Neuron 0:
+actual=1.0, ideal=0.9663710242696524
+Output Neuron 0:
+actual=1.0, ideal=0.9696312578731361
+Output Neuron 0:
+actual=1.0, ideal=0.9726285740953301
+Output Neuron 0:
+actual=1.0, ideal=0.9753762939139382
+Output Neuron 0:
+actual=1.0, ideal=0.9778881013834605
+Output Neuron 0:
+actual=1.0, ideal=0.980177659184789
+Output Neuron 0:
+actual=1.0, ideal=0.9822583234950848
+Output Neuron 0:
+actual=1.0, ideal=0.9841438791890832
+Output Neuron 0:
+actual=1.0, ideal=0.9858479268340519
+Output Neuron 0:
+actual=1.0, ideal=0.9873831258805991
+Output Neuron 0:
+actual=1.0, ideal=0.9887623836015532
+Output Neuron 0:
+actual=1.0, ideal=0.989998033692605
+Output Neuron 0:
+actual=1.0, ideal=0.9911020791273328
+Output Neuron 0:
+actual=1.0, ideal=0.9920857268859191
+Output Neuron 0:
+actual=1.0, ideal=0.9929597714942094
+Output Neuron 0:
+actual=1.0, ideal=0.9937344125408042
+Output Neuron 0:
+actual=1.0, ideal=0.9944191399972555
+Output Neuron 0:
+actual=1.0, ideal=0.9950229335343778
+Output Neuron 0:
+actual=1.0, ideal=0.9955542203904754
+Output Neuron 0:
+actual=1.0, ideal=0.9960204847786401
+Output Neuron 0:
+actual=1.0, ideal=0.996429006173748
+Output Neuron 0:
+actual=1.0, ideal=0.9967861125443538
+Output Neuron 0:
+actual=1.0, ideal=0.9970977880555753
+Output Neuron 0:
+actual=1.0, ideal=0.9973693597089764
+Output Neuron 0:
+actual=1.0, ideal=0.9976057102477671
+Output Neuron 0:
+actual=1.0, ideal=0.9978111545385191
+Output Neuron 0:
+actual=1.0, ideal=0.997989583747352
+Output Neuron 0:
+actual=1.0, ideal=0.9981445243414634
+Output Neuron 0:
+actual=1.0, ideal=0.9982789888316054
+Output Neuron 0:
+actual=1.0, ideal=0.9983957361524768
+Output Neuron 0:
+actual=1.0, ideal=0.9984971852555254
+Output Neuron 0:
+actual=1.0, ideal=0.9985854283087943
+Output Neuron 0:
+actual=1.0, ideal=0.9986623179981247
+Output Neuron 0:
+actual=1.0, ideal=0.998729466284494
+Output Neuron 0:
+actual=1.0, ideal=0.9987882372926773
+Output Neuron 0:
+actual=1.0, ideal=0.9988398830725731
+Output Neuron 0:
+actual=1.0, ideal=0.9988854192254534
+Output Neuron 0:
+actual=1.0, ideal=0.9989257523678599
+Output Neuron 0:
+actual=1.0, ideal=0.9989616486304299
+Output Neuron 0:
+actual=1.0, ideal=0.9989937762542631
+Output Neuron 0:
+actual=1.0, ideal=0.9990226863734363
+Output Neuron 0:
+actual=1.0, ideal=0.9990488602204636
+Output Neuron 0:
+actual=1.0, ideal=0.9990726999087257
+Output Neuron 0:
+actual=1.0, ideal=0.9990945550338245
+Output Neuron 0:
+actual=1.0, ideal=0.9991147151711122
+Output Neuron 0:
+actual=1.0, ideal=0.9991334153455327
+Output Neuron 0:
+actual=1.0, ideal=0.9367580436950806
+Output Neuron 0:
+actual=1.0, ideal=0.941420614681466
+Output Neuron 0:
+actual=1.0, ideal=0.9457774769011813
+Output Neuron 0:
+actual=1.0, ideal=0.9498425215920991
+Output Neuron 0:
+actual=1.0, ideal=0.9536286890730873
+Output Neuron 0:
+actual=1.0, ideal=0.9571493239059888
+Output Neuron 0:
+actual=1.0, ideal=0.9604177280452247
+Output Neuron 0:
+actual=1.0, ideal=0.9634473595587919
+Output Neuron 0:
+actual=1.0, ideal=0.9662514390603446
+Output Neuron 0:
+actual=1.0, ideal=0.9688428971350717
+Output Neuron 0:
+actual=1.0, ideal=0.9712345609372325
+Output Neuron 0:
+actual=1.0, ideal=0.973439053842579
+Output Neuron 0:
+actual=1.0, ideal=0.9754680893986065
+Output Neuron 0:
+actual=1.0, ideal=0.9773335483477706
+Output Neuron 0:
+actual=1.0, ideal=0.9790465576296136
+Output Neuron 0:
+actual=1.0, ideal=0.9806177179670575
+Output Neuron 0:
+actual=1.0, ideal=0.9820575943312483
+Output Neuron 0:
+actual=1.0, ideal=0.983375653519131
+Output Neuron 0:
+actual=1.0, ideal=0.9845812900210084
+Output Neuron 0:
+actual=1.0, ideal=0.9856830257495676
+Output Neuron 0:
+actual=1.0, ideal=0.9866891278102355
+Output Neuron 0:
+actual=1.0, ideal=0.9876074276066317
+Output Neuron 0:
+actual=1.0, ideal=0.9884448608396926
+Output Neuron 0:
+actual=1.0, ideal=0.9892084460658481
+Output Neuron 0:
+actual=1.0, ideal=0.98990424920857
+Output Neuron 0:
+actual=1.0, ideal=0.9905382857620935
+Output Neuron 0:
+actual=1.0, ideal=0.9911158185435862
+Output Neuron 0:
+actual=1.0, ideal=0.9916418810418197
+Output Neuron 0:
+actual=1.0, ideal=0.9921210212391942
+Output Neuron 0:
+actual=1.0, ideal=0.9925576383798443
+Output Neuron 0:
+actual=1.0, ideal=0.9929554744763357
+Output Neuron 0:
+actual=1.0, ideal=0.9933181658264909
+Output Neuron 0:
+actual=1.0, ideal=0.9936490272900571
+Output Neuron 0:
+actual=1.0, ideal=0.9939510239334938
+Output Neuron 0:
+actual=1.0, ideal=0.9942269134517819
+Output Neuron 0:
+actual=1.0, ideal=0.9944791554379715
+Output Neuron 0:
+actual=1.0, ideal=0.9947100791780844
+Output Neuron 0:
+actual=1.0, ideal=0.994921708243271
+Output Neuron 0:
+actual=1.0, ideal=0.9951159221001815
+Output Neuron 0:
+actual=1.0, ideal=0.9952944225063375
+Output Neuron 0:
+actual=1.0, ideal=0.9954587489198098
+Output Neuron 0:
+actual=1.0, ideal=0.9956102620639554
+Output Neuron 0:
+actual=1.0, ideal=0.9957502532855759
+Output Neuron 0:
+actual=1.0, ideal=0.9958798557286282
+Output Neuron 0:
+actual=1.0, ideal=0.9960000661212648
+Output Neuron 0:
+actual=1.0, ideal=0.99611180957716
+Output Neuron 0:
+actual=1.0, ideal=0.9962159183878445
+Output Neuron 0:
+actual=1.0, ideal=0.996313120847681
+Output Neuron 0:
+actual=1.0, ideal=0.996404093101592
+Output Neuron 0:
+actual=1.0, ideal=0.9964894417828045
+Output Neuron 0:
+actual=1.0, ideal=0.9965696948040713
+Output Neuron 0:
+actual=1.0, ideal=0.9239163069058363
+Output Neuron 0:
+actual=1.0, ideal=0.9286153143915826
+Output Neuron 0:
+actual=1.0, ideal=0.9330299379689485
+Output Neuron 0:
+actual=1.0, ideal=0.9371728844543288
+Output Neuron 0:
+actual=1.0, ideal=0.9410567924972251
+Output Neuron 0:
+actual=1.0, ideal=0.9446938606620926
+Output Neuron 0:
+actual=1.0, ideal=0.9480964470386369
+Output Neuron 0:
+actual=1.0, ideal=0.9512766695117524
+Output Neuron 0:
+actual=1.0, ideal=0.9542466315340663
+Output Neuron 0:
+actual=1.0, ideal=0.9570180695253926
+Output Neuron 0:
+actual=1.0, ideal=0.9596020853479504
+Output Neuron 0:
+actual=1.0, ideal=0.9620096485843918
+Output Neuron 0:
+actual=1.0, ideal=0.9642517427425913
+Output Neuron 0:
+actual=1.0, ideal=0.9663382020909562
+Output Neuron 0:
+actual=1.0, ideal=0.9682788657203402
+Output Neuron 0:
+actual=1.0, ideal=0.9700834725413867
+Output Neuron 0:
+actual=1.0, ideal=0.9717604959509571
+Output Neuron 0:
+actual=1.0, ideal=0.9733187050862498
+Output Neuron 0:
+actual=1.0, ideal=0.9747661852827457
+Output Neuron 0:
+actual=1.0, ideal=0.9761102471018146
+Output Neuron 0:
+actual=1.0, ideal=0.9773583937578274
+Output Neuron 0:
+actual=1.0, ideal=0.9785172174874629
+Output Neuron 0:
+actual=1.0, ideal=0.9795933152977497
+Output Neuron 0:
+actual=1.0, ideal=0.980592461198187
+Output Neuron 0:
+actual=1.0, ideal=0.9815204303802815
+Output Neuron 0:
+actual=1.0, ideal=0.9823822584840607
+Output Neuron 0:
+actual=1.0, ideal=0.9831830863057962
+Output Neuron 0:
+actual=1.0, ideal=0.9839274690843947
+Output Neuron 0:
+actual=1.0, ideal=0.9846194563634382
+Output Neuron 0:
+actual=1.0, ideal=0.9852632799733081
+Output Neuron 0:
+actual=1.0, ideal=0.9858624124509726
+Output Neuron 0:
+actual=1.0, ideal=0.9864204164204182
+Output Neuron 0:
+actual=1.0, ideal=0.9869404229233826
+Output Neuron 0:
+actual=1.0, ideal=0.9874253340242994
+Output Neuron 0:
+actual=1.0, ideal=0.9878779043130027
+Output Neuron 0:
+actual=1.0, ideal=0.9883006740137196
+Output Neuron 0:
+actual=1.0, ideal=0.988695925296421
+Output Neuron 0:
+actual=1.0, ideal=0.9890658251036534
+Output Neuron 0:
+actual=1.0, ideal=0.989412315830609
+Output Neuron 0:
+actual=1.0, ideal=0.989737242472726
+Output Neuron 0:
+actual=1.0, ideal=0.990042301989166
+Output Neuron 0:
+actual=1.0, ideal=0.9903290545362379
+Output Neuron 0:
+actual=1.0, ideal=0.9905988921516803
+Output Neuron 0:
+actual=1.0, ideal=0.9908530997577518
+Output Neuron 0:
+actual=1.0, ideal=0.99109293725192
+Output Neuron 0:
+actual=1.0, ideal=0.9913194853689153
+Output Neuron 0:
+actual=1.0, ideal=0.9915337408877533
+Output Neuron 0:
+actual=1.0, ideal=0.9917366539892677
+Output Neuron 0:
+actual=1.0, ideal=0.991929095728494
+Output Neuron 0:
+actual=1.0, ideal=0.9921118366975931
+Output Neuron 0:
+actual=1.0, ideal=0.9922855869813013
+Output Neuron 0:
+actual=1.0, ideal=0.9445638001335565
+Output Neuron 0:
+actual=1.0, ideal=0.9492524116314022
+Output Neuron 0:
+actual=1.0, ideal=0.9536213927752266
+Output Neuron 0:
+actual=1.0, ideal=0.957683025887038
+Output Neuron 0:
+actual=1.0, ideal=0.9614503782380581
+Output Neuron 0:
+actual=1.0, ideal=0.9649368075876805
+Output Neuron 0:
+actual=1.0, ideal=0.9681555761159276
+Output Neuron 0:
+actual=1.0, ideal=0.9711208902167496
+Output Neuron 0:
+actual=1.0, ideal=0.9738460786230566
+Output Neuron 0:
+actual=1.0, ideal=0.9763451509328103
+Output Neuron 0:
+actual=1.0, ideal=0.9786313998981271
+Output Neuron 0:
+actual=1.0, ideal=0.9807187292877383
+Output Neuron 0:
+actual=1.0, ideal=0.9826201658370816
+Output Neuron 0:
+actual=1.0, ideal=0.9843483196678722
+Output Neuron 0:
+actual=1.0, ideal=0.9859158661962922
+Output Neuron 0:
+actual=1.0, ideal=0.9873345512457639
+Output Neuron 0:
+actual=1.0, ideal=0.9886160425244093
+Output Neuron 0:
+actual=1.0, ideal=0.989771210787252
+Output Neuron 0:
+actual=1.0, ideal=0.9908105795740293
+Output Neuron 0:
+actual=1.0, ideal=0.9917438810290872
+Output Neuron 0:
+actual=1.0, ideal=0.9925804593457084
+Output Neuron 0:
+actual=1.0, ideal=0.993328895803447
+Output Neuron 0:
+actual=1.0, ideal=0.993997466222668
+Output Neuron 0:
+actual=1.0, ideal=0.9945937003020102
+Output Neuron 0:
+actual=1.0, ideal=0.9951245382667206
+Output Neuron 0:
+actual=1.0, ideal=0.9955965981180862
+Output Neuron 0:
+actual=1.0, ideal=0.9960156922368752
+Output Neuron 0:
+actual=1.0, ideal=0.996387350626055
+Output Neuron 0:
+actual=1.0, ideal=0.9967165924113605
+Output Neuron 0:
+actual=1.0, ideal=0.9970079094131516
+Output Neuron 0:
+actual=1.0, ideal=0.9972654822220964
+Output Neuron 0:
+actual=1.0, ideal=0.9974930755491382
+Output Neuron 0:
+actual=1.0, ideal=0.9976940300899811
+Output Neuron 0:
+actual=1.0, ideal=0.9978714358723917
+Output Neuron 0:
+actual=1.0, ideal=0.9980279782587099
+Output Neuron 0:
+actual=1.0, ideal=0.9981661716594071
+Output Neuron 0:
+actual=1.0, ideal=0.9982881520025411
+Output Neuron 0:
+actual=1.0, ideal=0.9983959185724619
+Output Neuron 0:
+actual=1.0, ideal=0.9984911852664383
+Output Neuron 0:
+actual=1.0, ideal=0.9985754758633734
+Output Neuron 0:
+actual=1.0, ideal=0.9986501874076683
+Output Neuron 0:
+actual=1.0, ideal=0.9987165065465708
+Output Neuron 0:
+actual=1.0, ideal=0.9987755017012027
+Output Neuron 0:
+actual=1.0, ideal=0.9988280777132026
+Output Neuron 0:
+actual=1.0, ideal=0.9988750829698947
+Output Neuron 0:
+actual=1.0, ideal=0.9989172279322158
+Output Neuron 0:
+actual=1.0, ideal=0.9989551364963829
+Output Neuron 0:
+actual=1.0, ideal=0.9989893673699106
+Output Neuron 0:
+actual=1.0, ideal=0.9990203738761134
+Output Neuron 0:
+actual=1.0, ideal=0.9990485864779057
+Output Neuron 0:
+actual=1.0, ideal=0.9990743687311353
+Output Neuron 0:
+actual=1.0, ideal=0.9338860822342058
+Output Neuron 0:
+actual=1.0, ideal=0.9384954315341819
+Output Neuron 0:
+actual=1.0, ideal=0.9428115886132463
+Output Neuron 0:
+actual=1.0, ideal=0.9468484769108053
+Output Neuron 0:
+actual=1.0, ideal=0.9506188856070892
+Output Neuron 0:
+actual=1.0, ideal=0.9541355617772492
+Output Neuron 0:
+actual=1.0, ideal=0.9574120350549642
+Output Neuron 0:
+actual=1.0, ideal=0.9604606465947667
+Output Neuron 0:
+actual=1.0, ideal=0.9632946023357063
+Output Neuron 0:
+actual=1.0, ideal=0.9659256104792656
+Output Neuron 0:
+actual=1.0, ideal=0.9683663121929067
+Output Neuron 0:
+actual=1.0, ideal=0.9706276237492012
+Output Neuron 0:
+actual=1.0, ideal=0.9727214501604766
+Output Neuron 0:
+actual=1.0, ideal=0.9746580254791571
+Output Neuron 0:
+actual=1.0, ideal=0.9764479784624338
+Output Neuron 0:
+actual=1.0, ideal=0.9781009893289225
+Output Neuron 0:
+actual=1.0, ideal=0.9796266141870031
+Output Neuron 0:
+actual=1.0, ideal=0.981033691333249
+Output Neuron 0:
+actual=1.0, ideal=0.9823305637369937
+Output Neuron 0:
+actual=1.0, ideal=0.9835252450246247
+Output Neuron 0:
+actual=1.0, ideal=0.9846253947156051
+Output Neuron 0:
+actual=1.0, ideal=0.9856378956137176
+Output Neuron 0:
+actual=1.0, ideal=0.9865695909760276
+Output Neuron 0:
+actual=1.0, ideal=0.9874264740650538
+Output Neuron 0:
+actual=1.0, ideal=0.9882143860540494
+Output Neuron 0:
+actual=1.0, ideal=0.9889388626967623
+Output Neuron 0:
+actual=1.0, ideal=0.9896048246281851
+Output Neuron 0:
+actual=1.0, ideal=0.990216947737862
+Output Neuron 0:
+actual=1.0, ideal=0.9907797453933566
+Output Neuron 0:
+actual=1.0, ideal=0.991297114216899
+Output Neuron 0:
+actual=1.0, ideal=0.9917727533952658
+Output Neuron 0:
+actual=1.0, ideal=0.99221023379063
+Output Neuron 0:
+actual=1.0, ideal=0.9926126178689197
+Output Neuron 0:
+actual=1.0, ideal=0.9929830121327433
+Output Neuron 0:
+actual=1.0, ideal=0.9933239994792612
+Output Neuron 0:
+actual=1.0, ideal=0.9936380907287521
+Output Neuron 0:
+actual=1.0, ideal=0.9939275905483915
+Output Neuron 0:
+actual=1.0, ideal=0.9941946655672926
+Output Neuron 0:
+actual=1.0, ideal=0.9944411457146567
+Output Neuron 0:
+actual=1.0, ideal=0.9946689089527084
+Output Neuron 0:
+actual=1.0, ideal=0.9948794853600526
+Output Neuron 0:
+actual=1.0, ideal=0.9950744121842601
+Output Neuron 0:
+actual=1.0, ideal=0.9952550114508993
+Output Neuron 0:
+actual=1.0, ideal=0.9954225702665549
+Output Neuron 0:
+actual=1.0, ideal=0.9955781902797584
+Output Neuron 0:
+actual=1.0, ideal=0.9957229147360591
+Output Neuron 0:
+actual=1.0, ideal=0.9958577257130532
+Output Neuron 0:
+actual=1.0, ideal=0.9959834288952704
+Output Neuron 0:
+actual=1.0, ideal=0.9961008208145605
+Output Neuron 0:
+actual=1.0, ideal=0.9962106520169967
+Output Neuron 0:
+actual=1.0, ideal=0.9963135311552805
+Output Neuron 0:
+actual=1.0, ideal=0.9196296862207829
+Output Neuron 0:
+actual=1.0, ideal=0.9243101458368062
+Output Neuron 0:
+actual=1.0, ideal=0.9287202005657097
+Output Neuron 0:
+actual=1.0, ideal=0.9328718702997043
+Output Neuron 0:
+actual=1.0, ideal=0.9367770511986189
+Output Neuron 0:
+actual=1.0, ideal=0.9404474636358283
+Output Neuron 0:
+actual=1.0, ideal=0.9438946072611405
+Output Neuron 0:
+actual=1.0, ideal=0.9471297227682437
+Output Neuron 0:
+actual=1.0, ideal=0.9501640423985432
+Output Neuron 0:
+actual=1.0, ideal=0.9530084330724304
+Output Neuron 0:
+actual=1.0, ideal=0.9556733792322238
+Output Neuron 0:
+actual=1.0, ideal=0.9581689705808962
+Output Neuron 0:
+actual=1.0, ideal=0.9605048941607623
+Output Neuron 0:
+actual=1.0, ideal=0.9626904302443519
+Output Neuron 0:
+actual=1.0, ideal=0.964734667430954
+Output Neuron 0:
+actual=1.0, ideal=0.9666462497424569
+Output Neuron 0:
+actual=1.0, ideal=0.9684333848526518
+Output Neuron 0:
+actual=1.0, ideal=0.9701034788866119
+Output Neuron 0:
+actual=1.0, ideal=0.9716644879592747
+Output Neuron 0:
+actual=1.0, ideal=0.9731228384547503
+Output Neuron 0:
+actual=1.0, ideal=0.9744856432529087
+Output Neuron 0:
+actual=1.0, ideal=0.9757587710775356
+Output Neuron 0:
+actual=1.0, ideal=0.9769483841365655
+Output Neuron 0:
+actual=1.0, ideal=0.9780599624002657
+Output Neuron 0:
+actual=1.0, ideal=0.979098794264777
+Output Neuron 0:
+actual=1.0, ideal=0.9800697044135877
+Output Neuron 0:
+actual=1.0, ideal=0.9809772238034017
+Output Neuron 0:
+actual=1.0, ideal=0.9818259514426273
+Output Neuron 0:
+actual=1.0, ideal=0.9826197142064
+Output Neuron 0:
+actual=1.0, ideal=0.9833623236956603
+Output Neuron 0:
+actual=1.0, ideal=0.9840573368061488
+Output Neuron 0:
+actual=1.0, ideal=0.9847081658663005
+Output Neuron 0:
+actual=1.0, ideal=0.9853177089711364
+Output Neuron 0:
+actual=1.0, ideal=0.9858890332455272
+Output Neuron 0:
+actual=1.0, ideal=0.9864246463756243
+Output Neuron 0:
+actual=1.0, ideal=0.9869271370450091
+Output Neuron 0:
+actual=1.0, ideal=0.9873989041789406
+Output Neuron 0:
+actual=1.0, ideal=0.9878420294583427
+Output Neuron 0:
+actual=1.0, ideal=0.9882584578300198
+Output Neuron 0:
+actual=1.0, ideal=0.9886501965520516
+Output Neuron 0:
+actual=1.0, ideal=0.989018913416682
+Output Neuron 0:
+actual=1.0, ideal=0.9893662232452038
+Output Neuron 0:
+actual=1.0, ideal=0.9896936259071606
+Output Neuron 0:
+actual=1.0, ideal=0.99000256614014
+Output Neuron 0:
+actual=1.0, ideal=0.9902942303337428
+Output Neuron 0:
+actual=1.0, ideal=0.9905699202016096
+Output Neuron 0:
+actual=1.0, ideal=0.9908306976359988
+Output Neuron 0:
+actual=1.0, ideal=0.9910775960436176
+Output Neuron 0:
+actual=1.0, ideal=0.9913115335620254
+Output Neuron 0:
+actual=1.0, ideal=0.9915334819839665
+Output Neuron 0:
+actual=1.0, ideal=0.9917441865655761
+Output Neuron 0:
+actual=1.0, ideal=0.9430475188552605
+Output Neuron 0:
+actual=1.0, ideal=0.9476722956815399
+Output Neuron 0:
+actual=1.0, ideal=0.9519846402664309
+Output Neuron 0:
+actual=1.0, ideal=0.9559978917720302
+Output Neuron 0:
+actual=1.0, ideal=0.9597255906518872
+Output Neuron 0:
+actual=1.0, ideal=0.9631813802195405
+Output Neuron 0:
+actual=1.0, ideal=0.9663789161585058
+Output Neuron 0:
+actual=1.0, ideal=0.9693323291776664
+Output Neuron 0:
+actual=1.0, ideal=0.9720549737963677
+Output Neuron 0:
+actual=1.0, ideal=0.9745604886853779
+Output Neuron 0:
+actual=1.0, ideal=0.9768619128713678
+Output Neuron 0:
+actual=1.0, ideal=0.9789723634865215
+Output Neuron 0:
+actual=1.0, ideal=0.9809044641872315
+Output Neuron 0:
+actual=1.0, ideal=0.9826705184185623
+Output Neuron 0:
+actual=1.0, ideal=0.9842817126624805
+Output Neuron 0:
+actual=1.0, ideal=0.9857498129329706
+Output Neuron 0:
+actual=1.0, ideal=0.9870850767672429
+Output Neuron 0:
+actual=1.0, ideal=0.9882981759750403
+Output Neuron 0:
+actual=1.0, ideal=0.9893983628939318
+Output Neuron 0:
+actual=1.0, ideal=0.9903949137686593
+Output Neuron 0:
+actual=1.0, ideal=0.99129635059155
+Output Neuron 0:
+actual=1.0, ideal=0.9921107419237262
+Output Neuron 0:
+actual=1.0, ideal=0.9928455823392848
+Output Neuron 0:
+actual=1.0, ideal=0.9935079236759943
+Output Neuron 0:
+actual=1.0, ideal=0.9941041821707306
+Output Neuron 0:
+actual=1.0, ideal=0.99464037964563
+Output Neuron 0:
+actual=1.0, ideal=0.9951222246202241
+Output Neuron 0:
+actual=1.0, ideal=0.9955547805337894
+Output Neuron 0:
+actual=1.0, ideal=0.9959427693245686
+Output Neuron 0:
+actual=1.0, ideal=0.9962905083733663
+Output Neuron 0:
+actual=1.0, ideal=0.9966020023761132
+Output Neuron 0:
+actual=1.0, ideal=0.9968807767318152
+Output Neuron 0:
+actual=1.0, ideal=0.9971302692708404
+Output Neuron 0:
+actual=1.0, ideal=0.997353477311242
+Output Neuron 0:
+actual=1.0, ideal=0.9975530236389308
+Output Neuron 0:
+actual=1.0, ideal=0.9977314285140303
+Output Neuron 0:
+actual=1.0, ideal=0.9978910010190032
+Output Neuron 0:
+actual=1.0, ideal=0.9980336618086592
+Output Neuron 0:
+actual=1.0, ideal=0.9981612605449695
+Output Neuron 0:
+actual=1.0, ideal=0.9982754562366718
+Output Neuron 0:
+actual=1.0, ideal=0.9983777055239552
+Output Neuron 0:
+actual=1.0, ideal=0.9984693173364942
+Output Neuron 0:
+actual=1.0, ideal=0.9985514917913181
+Output Neuron 0:
+actual=1.0, ideal=0.9986252761965969
+Output Neuron 0:
+actual=1.0, ideal=0.9986916082796462
+Output Neuron 0:
+actual=1.0, ideal=0.9987513466991982
+Output Neuron 0:
+actual=1.0, ideal=0.9988052171345547
+Output Neuron 0:
+actual=1.0, ideal=0.9988538877517646
+Output Neuron 0:
+actual=1.0, ideal=0.9988979695754253
+Output Neuron 0:
+actual=1.0, ideal=0.9989379882915975
+Output Neuron 0:
+actual=1.0, ideal=0.9989743973480315
+Output Neuron 0:
+actual=1.0, ideal=0.9304799529358256
+Output Neuron 0:
+actual=1.0, ideal=0.9350646526616117
+Output Neuron 0:
+actual=1.0, ideal=0.9393685004596923
+Output Neuron 0:
+actual=1.0, ideal=0.9434042002600419
+Output Neuron 0:
+actual=1.0, ideal=0.9471846949750989
+Output Neuron 0:
+actual=1.0, ideal=0.9507223890949673
+Output Neuron 0:
+actual=1.0, ideal=0.9540294779446252
+Output Neuron 0:
+actual=1.0, ideal=0.9571187889028296
+Output Neuron 0:
+actual=1.0, ideal=0.9600015701237162
+Output Neuron 0:
+actual=1.0, ideal=0.9626898821906312
+Output Neuron 0:
+actual=1.0, ideal=0.9651947783853777
+Output Neuron 0:
+actual=1.0, ideal=0.9675269065378619
+Output Neuron 0:
+actual=1.0, ideal=0.9696967319788473
+Output Neuron 0:
+actual=1.0, ideal=0.9717144756111395
+Output Neuron 0:
+actual=1.0, ideal=0.9735896368172007
+Output Neuron 0:
+actual=1.0, ideal=0.9753314575205375
+Output Neuron 0:
+actual=1.0, ideal=0.9769483021917176
+Output Neuron 0:
+actual=1.0, ideal=0.9784486811224201
+Output Neuron 0:
+actual=1.0, ideal=0.9798404253796763
+Output Neuron 0:
+actual=1.0, ideal=0.9811307496940567
+Output Neuron 0:
+actual=1.0, ideal=0.9823267832282724
+Output Neuron 0:
+actual=1.0, ideal=0.9834352056681671
+Output Neuron 0:
+actual=1.0, ideal=0.9844619843508008
+Output Neuron 0:
+actual=1.0, ideal=0.9854131428403065
+Output Neuron 0:
+actual=1.0, ideal=0.9862939036728077
+Output Neuron 0:
+actual=1.0, ideal=0.9871095409103067
+Output Neuron 0:
+actual=1.0, ideal=0.9878648392616843
+Output Neuron 0:
+actual=1.0, ideal=0.9885640369748587
+Output Neuron 0:
+actual=1.0, ideal=0.9892115257753447
+Output Neuron 0:
+actual=1.0, ideal=0.9898111647501422
+Output Neuron 0:
+actual=1.0, ideal=0.9903663544293172
+Output Neuron 0:
+actual=1.0, ideal=0.9908807238193594
+Output Neuron 0:
+actual=1.0, ideal=0.9913571005505192
+Output Neuron 0:
+actual=1.0, ideal=0.9917986225334151
+Output Neuron 0:
+actual=1.0, ideal=0.992207864412072
+Output Neuron 0:
+actual=1.0, ideal=0.9925872236548318
+Output Neuron 0:
+actual=1.0, ideal=0.992939203579144
+Output Neuron 0:
+actual=1.0, ideal=0.9932657724659392
+Output Neuron 0:
+actual=1.0, ideal=0.9935690147949606
+Output Neuron 0:
+actual=1.0, ideal=0.9938506113054095
+Output Neuron 0:
+actual=1.0, ideal=0.994112406976085
+Output Neuron 0:
+actual=1.0, ideal=0.9943558254576843
+Output Neuron 0:
+actual=1.0, ideal=0.9945823940808358
+Output Neuron 0:
+actual=1.0, ideal=0.9947933707349671
+Output Neuron 0:
+actual=1.0, ideal=0.9949900122403499
+Output Neuron 0:
+actual=1.0, ideal=0.9951734312760958
+Output Neuron 0:
+actual=1.0, ideal=0.9953446947224291
+Output Neuron 0:
+actual=1.0, ideal=0.9955046690597725
+Output Neuron 0:
+actual=1.0, ideal=0.9956543062652674
+Output Neuron 0:
+actual=1.0, ideal=0.995794407137005
+Output Neuron 0:
+actual=1.0, ideal=0.9959256781044681
+Output Neuron 0:
+actual=1.0, ideal=0.9147724811418283
+Output Neuron 0:
+actual=1.0, ideal=0.9194633415150409
+Output Neuron 0:
+actual=1.0, ideal=0.9238956882310316
+Output Neuron 0:
+actual=1.0, ideal=0.9280809305815537
+Output Neuron 0:
+actual=1.0, ideal=0.9320306616092616
+Output Neuron 0:
+actual=1.0, ideal=0.9357552143838579
+Output Neuron 0:
+actual=1.0, ideal=0.9392660692243415
+Output Neuron 0:
+actual=1.0, ideal=0.9425730972619015
+Output Neuron 0:
+actual=1.0, ideal=0.9456874575134938
+Output Neuron 0:
+actual=1.0, ideal=0.9486181372862522
+Output Neuron 0:
+actual=1.0, ideal=0.9513755786674502
+Output Neuron 0:
+actual=1.0, ideal=0.9539689578657542
+Output Neuron 0:
+actual=1.0, ideal=0.9564071057629998
+Output Neuron 0:
+actual=1.0, ideal=0.958698746203881
+Output Neuron 0:
+actual=1.0, ideal=0.960852212369294
+Output Neuron 0:
+actual=1.0, ideal=0.9628752282690554
+Output Neuron 0:
+actual=1.0, ideal=0.9647758160532052
+Output Neuron 0:
+actual=1.0, ideal=0.9665607337444913
+Output Neuron 0:
+actual=1.0, ideal=0.9682370361042187
+Output Neuron 0:
+actual=1.0, ideal=0.9698112030465857
+Output Neuron 0:
+actual=1.0, ideal=0.9712895537169002
+Output Neuron 0:
+actual=1.0, ideal=0.9726777034551677
+Output Neuron 0:
+actual=1.0, ideal=0.9739813121467501
+Output Neuron 0:
+actual=1.0, ideal=0.975205707584115
+Output Neuron 0:
+actual=1.0, ideal=0.976355599011173
+Output Neuron 0:
+actual=1.0, ideal=0.9774358801534306
+Output Neuron 0:
+actual=1.0, ideal=0.9784507158511626
+Output Neuron 0:
+actual=1.0, ideal=0.979404443093454
+Output Neuron 0:
+actual=1.0, ideal=0.9803007352533468
+Output Neuron 0:
+actual=1.0, ideal=0.9811434274781613
+Output Neuron 0:
+actual=1.0, ideal=0.9819358678237163
+Output Neuron 0:
+actual=1.0, ideal=0.9826812047047545
+Output Neuron 0:
+actual=1.0, ideal=0.9833826093014012
+Output Neuron 0:
+actual=1.0, ideal=0.9840427329807513
+Output Neuron 0:
+actual=1.0, ideal=0.9846642717845147
+Output Neuron 0:
+actual=1.0, ideal=0.9852498387817619
+Output Neuron 0:
+actual=1.0, ideal=0.9858016000708325
+Output Neuron 0:
+actual=1.0, ideal=0.9863217685049138
+Output Neuron 0:
+actual=1.0, ideal=0.9868124918296081
+Output Neuron 0:
+actual=1.0, ideal=0.9872755341063406
+Output Neuron 0:
+actual=1.0, ideal=0.9877126332212867
+Output Neuron 0:
+actual=1.0, ideal=0.9881256316722687
+Output Neuron 0:
+actual=1.0, ideal=0.9885159618819528
+Output Neuron 0:
+actual=1.0, ideal=0.9888851045501842
+Output Neuron 0:
+actual=1.0, ideal=0.9892344405719914
+Output Neuron 0:
+actual=1.0, ideal=0.989565138915443
+Output Neuron 0:
+actual=1.0, ideal=0.989878472317322
+Output Neuron 0:
+actual=1.0, ideal=0.9901755666338765
+Output Neuron 0:
+actual=1.0, ideal=0.9904573153751589
+Output Neuron 0:
+actual=1.0, ideal=0.9907248656660069
+Output Neuron 0:
+actual=1.0, ideal=0.9909789376975693
+Output Neuron 0:
+actual=1.0, ideal=0.9411731902512017
+Output Neuron 0:
+actual=1.0, ideal=0.9457491778373103
+Output Neuron 0:
+actual=1.0, ideal=0.9500217388907934
+Output Neuron 0:
+actual=1.0, ideal=0.95400452354109
+Output Neuron 0:
+actual=1.0, ideal=0.957710564136865
+Output Neuron 0:
+actual=1.0, ideal=0.961154207316672
+Output Neuron 0:
+actual=1.0, ideal=0.964348369200954
+Output Neuron 0:
+actual=1.0, ideal=0.9673067330202093
+Output Neuron 0:
+actual=1.0, ideal=0.9700429373063598
+Output Neuron 0:
+actual=1.0, ideal=0.972569704602443
+Output Neuron 0:
+actual=1.0, ideal=0.97489989848764
+Output Neuron 0:
+actual=1.0, ideal=0.9770459083445733
+Output Neuron 0:
+actual=1.0, ideal=0.9790196308763042
+Output Neuron 0:
+actual=1.0, ideal=0.9808326605306504
+Output Neuron 0:
+actual=1.0, ideal=0.9824958428676318
+Output Neuron 0:
+actual=1.0, ideal=0.9840198734766991
+Output Neuron 0:
+actual=1.0, ideal=0.9854148554886811
+Output Neuron 0:
+actual=1.0, ideal=0.9866899913711414
+Output Neuron 0:
+actual=1.0, ideal=0.9878547554141283
+Output Neuron 0:
+actual=1.0, ideal=0.9889172519929194
+Output Neuron 0:
+actual=1.0, ideal=0.9898855358957654
+Output Neuron 0:
+actual=1.0, ideal=0.9907673786027266
+Output Neuron 0:
+actual=1.0, ideal=0.9915696224963436
+Output Neuron 0:
+actual=1.0, ideal=0.9922988822264734
+Output Neuron 0:
+actual=1.0, ideal=0.9929611826463147
+Output Neuron 0:
+actual=1.0, ideal=0.9935623163866092
+Output Neuron 0:
+actual=1.0, ideal=0.9941075291155581
+Output Neuron 0:
+actual=1.0, ideal=0.9946016657007944
+Output Neuron 0:
+actual=1.0, ideal=0.9950493596609316
+Output Neuron 0:
+actual=1.0, ideal=0.9954546234613015
+Output Neuron 0:
+actual=1.0, ideal=0.9958213094023419
+Output Neuron 0:
+actual=1.0, ideal=0.9961530163795316
+Output Neuron 0:
+actual=1.0, ideal=0.9964529660078859
+Output Neuron 0:
+actual=1.0, ideal=0.9967241065639662
+Output Neuron 0:
+actual=1.0, ideal=0.9969691337507945
+Output Neuron 0:
+actual=1.0, ideal=0.9971905101329656
+Output Neuron 0:
+actual=1.0, ideal=0.9973905803509265
+Output Neuron 0:
+actual=1.0, ideal=0.9975713298003845
+Output Neuron 0:
+actual=1.0, ideal=0.9977346181095529
+Output Neuron 0:
+actual=1.0, ideal=0.9978822177524643
+Output Neuron 0:
+actual=1.0, ideal=0.998015653229204
+Output Neuron 0:
+actual=1.0, ideal=0.9981363104934603
+Output Neuron 0:
+actual=1.0, ideal=0.9982454808572631
+Output Neuron 0:
+actual=1.0, ideal=0.9983443003543816
+Output Neuron 0:
+actual=1.0, ideal=0.9984338275074585
+Output Neuron 0:
+actual=1.0, ideal=0.9985149636712483
+Output Neuron 0:
+actual=1.0, ideal=0.9985886034872999
+Output Neuron 0:
+actual=1.0, ideal=0.9986555015430721
+Output Neuron 0:
+actual=1.0, ideal=0.9987163184086172
+Output Neuron 0:
+actual=1.0, ideal=0.9987716944465463
+Output Neuron 0:
+actual=1.0, ideal=0.9988222038729593
+Output Neuron 0:
+actual=1.0, ideal=0.9266376095878467
+Output Neuron 0:
+actual=1.0, ideal=0.9312202056558542
+Output Neuron 0:
+actual=1.0, ideal=0.9355331326912153
+Output Neuron 0:
+actual=1.0, ideal=0.939588555199318
+Output Neuron 0:
+actual=1.0, ideal=0.9433984909865024
+Output Neuron 0:
+actual=1.0, ideal=0.9469747609918789
+Output Neuron 0:
+actual=1.0, ideal=0.950329266788368
+Output Neuron 0:
+actual=1.0, ideal=0.9534735813617936
+Output Neuron 0:
+actual=1.0, ideal=0.956418627764487
+Output Neuron 0:
+actual=1.0, ideal=0.9591755675281756
+Output Neuron 0:
+actual=1.0, ideal=0.9617548504569936
+Output Neuron 0:
+actual=1.0, ideal=0.9641662655814602
+Output Neuron 0:
+actual=1.0, ideal=0.9664199818427754
+Output Neuron 0:
+actual=1.0, ideal=0.9685251945000268
+Output Neuron 0:
+actual=1.0, ideal=0.9704906904635792
+Output Neuron 0:
+actual=1.0, ideal=0.9723252846383366
+Output Neuron 0:
+actual=1.0, ideal=0.9740366938717707
+Output Neuron 0:
+actual=1.0, ideal=0.975633074805879
+Output Neuron 0:
+actual=1.0, ideal=0.9771215290197457
+Output Neuron 0:
+actual=1.0, ideal=0.978509153420694
+Output Neuron 0:
+actual=1.0, ideal=0.9798022806550326
+Output Neuron 0:
+actual=1.0, ideal=0.9810072330031011
+Output Neuron 0:
+actual=1.0, ideal=0.9821299455762579
+Output Neuron 0:
+actual=1.0, ideal=0.9831756859933101
+Output Neuron 0:
+actual=1.0, ideal=0.9841498549447676
+Output Neuron 0:
+actual=1.0, ideal=0.985057083389227
+Output Neuron 0:
+actual=1.0, ideal=0.9859022559914137
+Output Neuron 0:
+actual=1.0, ideal=0.9866892894026528
+Output Neuron 0:
+actual=1.0, ideal=0.9874223598531789
+Output Neuron 0:
+actual=1.0, ideal=0.9881052396131286
+Output Neuron 0:
+actual=1.0, ideal=0.9887413417031562
+Output Neuron 0:
+actual=1.0, ideal=0.98933396434829
+Output Neuron 0:
+actual=1.0, ideal=0.989886279197881
+Output Neuron 0:
+actual=1.0, ideal=0.9904009514258171
+Output Neuron 0:
+actual=1.0, ideal=0.9908807506635582
+Output Neuron 0:
+actual=1.0, ideal=0.9913280759524007
+Output Neuron 0:
+actual=1.0, ideal=0.9917453302362516
+Output Neuron 0:
+actual=1.0, ideal=0.9921345860634401
+Output Neuron 0:
+actual=1.0, ideal=0.9924978526097168
+Output Neuron 0:
+actual=1.0, ideal=0.9928369973494685
+Output Neuron 0:
+actual=1.0, ideal=0.9931537555042081
+Output Neuron 0:
+actual=1.0, ideal=0.9934497389263839
+Output Neuron 0:
+actual=1.0, ideal=0.993726384404037
+Output Neuron 0:
+actual=1.0, ideal=0.9939851472779199
+Output Neuron 0:
+actual=1.0, ideal=0.9942272624195617
+Output Neuron 0:
+actual=1.0, ideal=0.9944539339706855
+Output Neuron 0:
+actual=1.0, ideal=0.994666229341756
+Output Neuron 0:
+actual=1.0, ideal=0.9948652855602241
+Output Neuron 0:
+actual=1.0, ideal=0.9950519210795091
+Output Neuron 0:
+actual=1.0, ideal=0.9952271242884643
+Output Neuron 0:
+actual=1.0, ideal=0.9953916786313823
+Output Neuron 0:
+actual=1.0, ideal=0.9094574137640489
+Output Neuron 0:
+actual=1.0, ideal=0.9141779910907964
+Output Neuron 0:
+actual=1.0, ideal=0.9186510192848256
+Output Neuron 0:
+actual=1.0, ideal=0.9228869556520694
+Output Neuron 0:
+actual=1.0, ideal=0.9268961164570283
+Output Neuron 0:
+actual=1.0, ideal=0.9306889873185342
+Output Neuron 0:
+actual=1.0, ideal=0.9342754604505856
+Output Neuron 0:
+actual=1.0, ideal=0.9376651935653882
+Output Neuron 0:
+actual=1.0, ideal=0.9408682115689343
+Output Neuron 0:
+actual=1.0, ideal=0.9438932737529212
+Output Neuron 0:
+actual=1.0, ideal=0.946750057207531
+Output Neuron 0:
+actual=1.0, ideal=0.9494464208602411
+Output Neuron 0:
+actual=1.0, ideal=0.9519913509955392
+Output Neuron 0:
+actual=1.0, ideal=0.9543923740083532
+Output Neuron 0:
+actual=1.0, ideal=0.956657747402453
+Output Neuron 0:
+actual=1.0, ideal=0.9587945938857274
+Output Neuron 0:
+actual=1.0, ideal=0.9608099694386821
+Output Neuron 0:
+actual=1.0, ideal=0.9627106012266542
+Output Neuron 0:
+actual=1.0, ideal=0.9645028951068314
+Output Neuron 0:
+actual=1.0, ideal=0.9661931484956673
+Output Neuron 0:
+actual=1.0, ideal=0.9677869305402836
+Output Neuron 0:
+actual=1.0, ideal=0.9692901153238498
+Output Neuron 0:
+actual=1.0, ideal=0.9707075087250903
+Output Neuron 0:
+actual=1.0, ideal=0.9720444009246281
+Output Neuron 0:
+actual=1.0, ideal=0.9733054301058695
+Output Neuron 0:
+actual=1.0, ideal=0.974494825152111
+Output Neuron 0:
+actual=1.0, ideal=0.9756170659670822
+Output Neuron 0:
+actual=1.0, ideal=0.9766760581016275
+Output Neuron 0:
+actual=1.0, ideal=0.9776753491063644
+Output Neuron 0:
+actual=1.0, ideal=0.9786187143815561
+Output Neuron 0:
+actual=1.0, ideal=0.9795094262337245
+Output Neuron 0:
+actual=1.0, ideal=0.9803504461438699
+Output Neuron 0:
+actual=1.0, ideal=0.981145065284562
+Output Neuron 0:
+actual=1.0, ideal=0.9818957673585194
+Output Neuron 0:
+actual=1.0, ideal=0.982605253024597
+Output Neuron 0:
+actual=1.0, ideal=0.9832759483070824
+Output Neuron 0:
+actual=1.0, ideal=0.9839103450321796
+Output Neuron 0:
+actual=1.0, ideal=0.9845104722364361
+Output Neuron 0:
+actual=1.0, ideal=0.9850784411839659
+Output Neuron 0:
+actual=1.0, ideal=0.9856160474206473
+Output Neuron 0:
+actual=1.0, ideal=0.9861252537753075
+Output Neuron 0:
+actual=1.0, ideal=0.9866077215509377
+Output Neuron 0:
+actual=1.0, ideal=0.9870649334595217
+Output Neuron 0:
+actual=1.0, ideal=0.987498526258478
+Output Neuron 0:
+actual=1.0, ideal=0.9879098003676231
+Output Neuron 0:
+actual=1.0, ideal=0.9883001304006253
+Output Neuron 0:
+actual=1.0, ideal=0.9886707335029399
+Output Neuron 0:
+actual=1.0, ideal=0.9890228210205734
+Output Neuron 0:
+actual=1.0, ideal=0.9893573986351833
+Output Neuron 0:
+actual=1.0, ideal=0.9896755410381697
+Output Neuron 0:
+actual=1.0, ideal=0.9899781942935638
+Output Neuron 0:
+actual=1.0, ideal=0.9389868718787153
+Output Neuron 0:
+actual=1.0, ideal=0.9435306610794966
+Output Neuron 0:
+actual=1.0, ideal=0.9477798041045231
+Output Neuron 0:
+actual=1.0, ideal=0.9517477989395341
+Output Neuron 0:
+actual=1.0, ideal=0.9554484265575496
+Output Neuron 0:
+actual=1.0, ideal=0.9588943322446692
+Output Neuron 0:
+actual=1.0, ideal=0.9620996087357225
+Output Neuron 0:
+actual=1.0, ideal=0.9650767777461795
+Output Neuron 0:
+actual=1.0, ideal=0.9678389552312939
+Output Neuron 0:
+actual=1.0, ideal=0.9703982985926761
+Output Neuron 0:
+actual=1.0, ideal=0.972767603493789
+Output Neuron 0:
+actual=1.0, ideal=0.9749581381702574
+Output Neuron 0:
+actual=1.0, ideal=0.9769814504449724
+Output Neuron 0:
+actual=1.0, ideal=0.9788481149996086
+Output Neuron 0:
+actual=1.0, ideal=0.9805690578166544
+Output Neuron 0:
+actual=1.0, ideal=0.9821538109780505
+Output Neuron 0:
+actual=1.0, ideal=0.9836121841429231
+Output Neuron 0:
+actual=1.0, ideal=0.9849527009191887
+Output Neuron 0:
+actual=1.0, ideal=0.9861842692462768
+Output Neuron 0:
+actual=1.0, ideal=0.9873145850185614
+Output Neuron 0:
+actual=1.0, ideal=0.9883513472877784
+Output Neuron 0:
+actual=1.0, ideal=0.9893016026551167
+Output Neuron 0:
+actual=1.0, ideal=0.9901720693712327
+Output Neuron 0:
+actual=1.0, ideal=0.9909687554009219
+Output Neuron 0:
+actual=1.0, ideal=0.9916977483504966
+Output Neuron 0:
+actual=1.0, ideal=0.9923642283180033
+Output Neuron 0:
+actual=1.0, ideal=0.9929733456633949
+Output Neuron 0:
+actual=1.0, ideal=0.9935298583693735
+Output Neuron 0:
+actual=1.0, ideal=0.9940378823015903
+Output Neuron 0:
+actual=1.0, ideal=0.9945016016747958
+Output Neuron 0:
+actual=1.0, ideal=0.9949246945905805
+Output Neuron 0:
+actual=1.0, ideal=0.995310636561342
+Output Neuron 0:
+actual=1.0, ideal=0.9956625518701869
+Output Neuron 0:
+actual=1.0, ideal=0.9959833232038247
+Output Neuron 0:
+actual=1.0, ideal=0.9962758017473499
+Output Neuron 0:
+actual=1.0, ideal=0.9965423416857285
+Output Neuron 0:
+actual=1.0, ideal=0.9967852351171467
+Output Neuron 0:
+actual=1.0, ideal=0.9970065825889862
+Output Neuron 0:
+actual=1.0, ideal=0.9972083078367169
+Output Neuron 0:
+actual=1.0, ideal=0.9973921715200877
+Output Neuron 0:
+actual=1.0, ideal=0.9975597391085087
+Output Neuron 0:
+actual=1.0, ideal=0.9977125327661571
+Output Neuron 0:
+actual=1.0, ideal=0.9978518966450488
+Output Neuron 0:
+actual=1.0, ideal=0.9979789830083153
+Output Neuron 0:
+actual=1.0, ideal=0.998094959823394
+Output Neuron 0:
+actual=1.0, ideal=0.9982008863597376
+Output Neuron 0:
+actual=1.0, ideal=0.9982975981817808
+Output Neuron 0:
+actual=1.0, ideal=0.9983860163925665
+Output Neuron 0:
+actual=1.0, ideal=0.9984668874939789
+Output Neuron 0:
+actual=1.0, ideal=0.9985408943229169
+Output Neuron 0:
+actual=1.0, ideal=0.9986086853824235
+Output Neuron 0:
+actual=1.0, ideal=0.922433503597333
+Output Neuron 0:
+actual=1.0, ideal=0.9270316959072074
+Output Neuron 0:
+actual=1.0, ideal=0.9313702758404726
+Output Neuron 0:
+actual=1.0, ideal=0.9354601704259728
+Output Neuron 0:
+actual=1.0, ideal=0.9393133058569028
+Output Neuron 0:
+actual=1.0, ideal=0.9429409799796189
+Output Neuron 0:
+actual=1.0, ideal=0.946353894946701
+Output Neuron 0:
+actual=1.0, ideal=0.949563469105844
+Output Neuron 0:
+actual=1.0, ideal=0.9525794753279067
+Output Neuron 0:
+actual=1.0, ideal=0.9554129249272293
+Output Neuron 0:
+actual=1.0, ideal=0.9580729212438728
+Output Neuron 0:
+actual=1.0, ideal=0.960569391892108
+Output Neuron 0:
+actual=1.0, ideal=0.9629115506840573
+Output Neuron 0:
+actual=1.0, ideal=0.9651079546004055
+Output Neuron 0:
+actual=1.0, ideal=0.9671667985411307
+Output Neuron 0:
+actual=1.0, ideal=0.969096608846447
+Output Neuron 0:
+actual=1.0, ideal=0.9709047785799424
+Output Neuron 0:
+actual=1.0, ideal=0.9725985684697703
+Output Neuron 0:
+actual=1.0, ideal=0.9741848666999128
+Output Neuron 0:
+actual=1.0, ideal=0.9756702003148178
+Output Neuron 0:
+actual=1.0, ideal=0.9770609336383073
+Output Neuron 0:
+actual=1.0, ideal=0.9783628848907475
+Output Neuron 0:
+actual=1.0, ideal=0.9795815510011759
+Output Neuron 0:
+actual=1.0, ideal=0.980722120835714
+Output Neuron 0:
+actual=1.0, ideal=0.9817898016516414
+Output Neuron 0:
+actual=1.0, ideal=0.9827890160402609
+Output Neuron 0:
+actual=1.0, ideal=0.9837240906579761
+Output Neuron 0:
+actual=1.0, ideal=0.984599372884426
+Output Neuron 0:
+actual=1.0, ideal=0.9854186587528645
+Output Neuron 0:
+actual=1.0, ideal=0.9861855181721901
+Output Neuron 0:
+actual=1.0, ideal=0.9869034269957293
+Output Neuron 0:
+actual=1.0, ideal=0.9875756372621012
+Output Neuron 0:
+actual=1.0, ideal=0.988204969919666
+Output Neuron 0:
+actual=1.0, ideal=0.9887944021445249
+Output Neuron 0:
+actual=1.0, ideal=0.9893466033820846
+Output Neuron 0:
+actual=1.0, ideal=0.989863874051902
+Output Neuron 0:
+actual=1.0, ideal=0.99034856759698
+Output Neuron 0:
+actual=1.0, ideal=0.9908028805307743
+Output Neuron 0:
+actual=1.0, ideal=0.9912288623290073
+Output Neuron 0:
+actual=1.0, ideal=0.9916282629056589
+Output Neuron 0:
+actual=1.0, ideal=0.9920030410022536
+Output Neuron 0:
+actual=1.0, ideal=0.9923546357369029
+Output Neuron 0:
+actual=1.0, ideal=0.9926846955266551
+Output Neuron 0:
+actual=1.0, ideal=0.9929946130288252
+Output Neuron 0:
+actual=1.0, ideal=0.9932857576091124
+Output Neuron 0:
+actual=1.0, ideal=0.9935594045646072
+Output Neuron 0:
+actual=1.0, ideal=0.9938166223920959
+Output Neuron 0:
+actual=1.0, ideal=0.9940585319454809
+Output Neuron 0:
+actual=1.0, ideal=0.9942861763021015
+Output Neuron 0:
+actual=1.0, ideal=0.9945004738390032
+Output Neuron 0:
+actual=1.0, ideal=0.9947023341890789
+Output Neuron 0:
+actual=1.0, ideal=0.9037685013696837
+Output Neuron 0:
+actual=1.0, ideal=0.9085321838957401
+Output Neuron 0:
+actual=1.0, ideal=0.9130581064721452
+Output Neuron 0:
+actual=1.0, ideal=0.9173550851253798
+Output Neuron 0:
+actual=1.0, ideal=0.9214334033324134
+Output Neuron 0:
+actual=1.0, ideal=0.9253027359133574
+Output Neuron 0:
+actual=1.0, ideal=0.9289721838258128
+Output Neuron 0:
+actual=1.0, ideal=0.9324509839027637
+Output Neuron 0:
+actual=1.0, ideal=0.9357477817633171
+Output Neuron 0:
+actual=1.0, ideal=0.938871617120759
+Output Neuron 0:
+actual=1.0, ideal=0.9418305882315001
+Output Neuron 0:
+actual=1.0, ideal=0.9446328324330655
+Output Neuron 0:
+actual=1.0, ideal=0.9472861849858559
+Output Neuron 0:
+actual=1.0, ideal=0.949798450723868
+Output Neuron 0:
+actual=1.0, ideal=0.9521763004683251
+Output Neuron 0:
+actual=1.0, ideal=0.9544271980369592
+Output Neuron 0:
+actual=1.0, ideal=0.9565574982277029
+Output Neuron 0:
+actual=1.0, ideal=0.9585735360252258
+Output Neuron 0:
+actual=1.0, ideal=0.9604815874713237
+Output Neuron 0:
+actual=1.0, ideal=0.9622871747139996
+Output Neuron 0:
+actual=1.0, ideal=0.9639957925456472
+Output Neuron 0:
+actual=1.0, ideal=0.9656130802830994
+Output Neuron 0:
+actual=1.0, ideal=0.9671435724710541
+Output Neuron 0:
+actual=1.0, ideal=0.9685921868760586
+Output Neuron 0:
+actual=1.0, ideal=0.9699635752183655
+Output Neuron 0:
+actual=1.0, ideal=0.9712617815485252
+Output Neuron 0:
+actual=1.0, ideal=0.9724909987190007
+Output Neuron 0:
+actual=1.0, ideal=0.9736550212459184
+Output Neuron 0:
+actual=1.0, ideal=0.9747572864410687
+Output Neuron 0:
+actual=1.0, ideal=0.9758015210397487
+Output Neuron 0:
+actual=1.0, ideal=0.9767907843380539
+Output Neuron 0:
+actual=1.0, ideal=0.9777282677384772
+Output Neuron 0:
+actual=1.0, ideal=0.9786168408564611
+Output Neuron 0:
+actual=1.0, ideal=0.9794590862323551
+Output Neuron 0:
+actual=1.0, ideal=0.9802578366982735
+Output Neuron 0:
+actual=1.0, ideal=0.9810153808978805
+Output Neuron 0:
+actual=1.0, ideal=0.9817341274447386
+Output Neuron 0:
+actual=1.0, ideal=0.9824161148168797
+Output Neuron 0:
+actual=1.0, ideal=0.9830636057860122
+Output Neuron 0:
+actual=1.0, ideal=0.9836782972377475
+Output Neuron 0:
+actual=1.0, ideal=0.9842621142097417
+Output Neuron 0:
+actual=1.0, ideal=0.9848167672847923
+Output Neuron 0:
+actual=1.0, ideal=0.9853439652597908
+Output Neuron 0:
+actual=1.0, ideal=0.9858451312797528
+Output Neuron 0:
+actual=1.0, ideal=0.9863217914155803
+Output Neuron 0:
+actual=1.0, ideal=0.9867752937944925
+Output Neuron 0:
+actual=1.0, ideal=0.9872068293619499
+Output Neuron 0:
+actual=1.0, ideal=0.9876176856779887
+Output Neuron 0:
+actual=1.0, ideal=0.9880089195830094
+Output Neuron 0:
+actual=1.0, ideal=0.9883817532967119
+Output Neuron 0:
+actual=1.0, ideal=0.9887370462287232

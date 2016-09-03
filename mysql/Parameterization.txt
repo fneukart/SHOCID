@@ -1,0 +1,12 @@
+TCP/IP Port: 3306
+
+root passwort: @uakedrei3
+
+User account:
+Usr: shocid
+PWD: shocid
+
+Windows Service Name: MySQL56
+
+Add to classpath:
+C:\users\florian Neukart\workspace\SHOCID_310\mysql\mysql-connector-java-5.1.23\mysql-connector-java-5.1.23-bin.jar

@@ -1,0 +1,32 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=SHOCID/src<shocid.elman{ElmanAdaptiveGeneticAlgorithmJSP.java[ElmanAdaptiveGeneticAlgorithmJSP"/>
+      <height="2056"/>
+      <width="407"/>
+      <x="0"/>
+      <y="23"/>
+   </type>
+   <type>
+      <name="=SHOCID/C:\/glassfish3\/jdk\/jre\/lib\/rt.jar<java.io(Serializable.class[Serializable"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="415"/>
+      <y="27"/>
+   </type>
+   <type>
+      <name="=SHOCID/src<shocid.hoann{AdaptiveHOANNJSP.java[AdaptiveHOANNJSP"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="200"/>
+      <y="0"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
+      <sourceType="=SHOCID/src<shocid.hoann{AdaptiveHOANNJSP.java[AdaptiveHOANNJSP"/>
+      <targetType="=SHOCID/C:\/glassfish3\/jdk\/jre\/lib\/rt.jar<java.io(Serializable.class[Serializable"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+
